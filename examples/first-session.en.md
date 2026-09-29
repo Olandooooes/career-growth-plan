@@ -1,46 +1,75 @@
-# First session: from coordination to a credible accomplishment
+# Starting a career adventure
 
-[English](first-session.en.md) | [简体中文](first-session.zh-CN.md) · [Back to README](../README.md)
+**English** | [简体中文](first-session.zh-CN.md) · [Back to README](../README.md)
 
-**Fictional illustration.** These are authored example messages, not a test transcript or a testimonial. The numbers below are facts supplied by the fictional user, not measurements of this skill's effectiveness.
+An authored fictional walkthrough, not a recorded test or testimonial. Actual behavior depends on the model and host.
 
-**User:** Use career-growth-plan. My review is in two months. I mostly chase people and attend meetings; I don't know what my achievements are.
+**You:** Start my career adventure.
 
-**Companion:** Start with one recent situation. What was blocked, and what did you personally do to move it forward?
+**Companion:** Welcome. Does your work look anything like the job description?
 
-**User:** During a campaign launch, three teams were using different versions of the requirements. I gathered the six disputed items, made a confirmation sheet, and got the owners to agree on one version. We launched on the original date.
+A. Mostly — I'm learning the ropes.\
+B. One job title, five unofficial jobs.\
+C. Always busy, unsure what I'm building toward.\
+D. I've learned the routine and want a new challenge.
 
-**Companion:** What part did you own, and what evidence could support the outcome?
+Or tell me your version.
 
-**User:** I owned the confirmation sheet and follow-ups, not the whole launch. The sheet and launch notice are available. I don't know if it reduced rework.
+**You:** B. I work in operations. I chase design, coordinate with engineering, and handle everyone's last-minute requests.
 
-**Companion:** Here's a first accomplishment card:
+**Companion:** One title, quite a few invisible roles. What recently felt satisfying to untangle — or especially draining?
 
-| Field | Draft |
-| --- | --- |
-| Contribution | Consolidated six disputed requirements across three teams and coordinated confirmation of a shared version. |
-| Observed outcome | The campaign launched on the original date. This is a team outcome; the record does not establish that your coordination alone caused it. |
-| Evidence | You report that a confirmation sheet and launch notice are available. They have not been inspected here. |
-| Reusable lesson | A shared decision record may help surface mismatched assumptions. Try it earlier in the next handoff to test that idea. |
-| Unknown | Whether rework was reduced, and by how much. Do not claim a reduction without evidence. |
+**You:** Design and engineering were using different requirements yesterday. I listed the disagreements and got confirmation so development could resume. But I rarely own a project end to end.
 
-For your self-review:
+**Companion:** Here's a provisional character card:
 
-> Coordinated requirement alignment for a campaign launch across three teams by documenting six disputed items and following up with owners on an agreed version. The campaign launched on its original date; my contribution focused on the confirmation process rather than overall project leadership.
+> **Cross-team ambiguity wrangler**
+>
+> **Official role:** Operations. **Everyday work:** Connecting different teams' understanding.
+>
+> **Emerging strength:** You turned vague disagreements into decisions people could confirm.
+>
+> **Current tension:** You want project ownership, but ad hoc coordination takes up time.
+>
+> **Possible direction:** Keep that coordination strength while seeking a bounded piece of end-to-end work.
 
-One optional next step: reuse the confirmation sheet at your next handoff and note whether disagreements appear before implementation. This is a proposed experiment, not a measured improvement.
+This is a reading of your example, not a fixed label. What fits, and what should we change?
 
-This draft is in the conversation only; it has not been saved to a file.
+**You:** That fits. I'd like to try growing here before looking for another job.
 
-**User:** Could I have a fun title too?
+**Companion:** Let's explore owning one bounded piece of work. Is there a small project you could discuss with the person setting priorities? Include what it would replace so ownership doesn't simply mean more overtime.
 
-**Companion:** **Cross-team ambiguity wrangler.** A playful label for the card, not your job title or a line for the formal review.
+**You:** There's a small campaign next month. I could discuss that.
 
-## Continue when useful
+**Companion:** One experiment this week: spend roughly fifteen minutes outlining the scope you want, the support needed, and existing work to adjust. Discuss it at a suitable moment. Look for an agreed scope and support; having the conversation is not yet getting the project.
 
-- “Save this in my private archive at the path I provide.”
-- “Here's another experience from last month.”
-- “Use these records to draft an English promotion case.”
-- “Discuss this with me in Chinese, keeping the final self-review in English.”
+## Returning: today is for venting
 
-A later session needs the archive or a copy of the conversation. The skill does not create automatic cross-chat memory.
+*Assume the same conversation. A new session needs supplied context or access to an existing archive.*
+
+**You:** Another last-minute request today. I'm frustrated. No plan, please.
+
+**Companion:** You were trying to make room for something you could own, and another request took that space. What bothered you most: the task itself, or nobody addressing the commitments you already had?
+
+*Continue listening rather than creating a card, assigning homework, or automatically saving private frustrations.*
+
+## Later: a recognizable change
+
+**You:** My manager agreed I could own the campaign and reassigned one routine task. I used a confirmation checklist to resolve two disagreements earlier. The campaign hasn't happened yet.
+
+**Companion:** Compared with ad hoc coordination, you now have a defined scope and are bringing confirmation forward. That's a first demonstrated step toward independent coordination. The campaign outcome is still unknown. Which part of the checklist would you reuse?
+
+## Sharing and saving
+
+**You:** Make a shareable card without workplace details.
+
+**Companion:**
+
+> **Career character: Cross-team ambiguity wrangler**\
+> Turns vague disagreements into actionable questions.\
+> Current direction: own a bounded piece of work.\
+> Recent step: bringing confirmation earlier.
+>
+> Career Growth Companion · A playful character, not a professional credential.
+
+This is a draft for you to review, not a published post. Nothing has been saved to a file in this example. For continuity, specify a private archive location.

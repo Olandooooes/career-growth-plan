@@ -2,45 +2,48 @@
 
 **English** | [简体中文](README.zh-CN.md)
 
-### Turn everyday work into evidence of your growth.
+### Discover what your everyday work is turning you into.
 
-Busy all week, but unsure what belongs in your performance review or resume?
-Start with one real experience. This AI skill helps you find your contribution, capture a reusable lesson, and choose a practical next step.
+Explore a few playful questions, discover your career character, understand what work gives and costs you, and choose your next direction. Come back to vent, celebrate, solve a problem, reflect, or prepare for a review or job change.
 
-**Chinese name: 职场大神养成计划** · Skill ID: `career-growth-plan` · [MIT license](LICENSE)
+**Chinese name: 职场大神养成计划** · `career-growth-plan` · [MIT](LICENSE)
 
-## A small conversation, a useful outcome
-
-> **You:** I spent the day chasing design and engineering. The requirements changed three times. I don't feel like I achieved anything.
+> **Career character: Cross-team ambiguity wrangler**
 >
-> **Companion:** What was blocking them, and what did you personally do to move it forward?
+> **Official role:** Operations. **Everyday work:** Connecting different teams' understanding.
 >
-> **You:** They disagreed about the requirements. I listed the unresolved decisions and got both sides to confirm the scope. Engineering then resumed implementation. We haven't shipped yet.
+> **Emerging strength:** You turned a requirements disagreement into specific decisions people could confirm.
 >
-> **Accomplishment:** Documented unresolved requirements and coordinated scope confirmation between design and engineering, allowing implementation to resume. Final delivery impact is still unconfirmed.
+> **Current tension:** Ad hoc coordination takes up time, while you want ownership of a complete piece of work.
 >
-> **Next experiment:** Try that decision list at the next handoff and observe whether disagreements surface earlier.
+> **Possible next step:** Discuss a small, bounded project and what existing work it would replace.
 
-*Fictional illustration, not a real user result or a guaranteed model response.*
+*Fictional character card: a playful lens, not a psychological assessment or job title. Its observations need checking against your experience.*
 
-No invented “30% efficiency improvement”. No long questionnaire before the first useful draft. Read the [complete English example](examples/first-session.en.md) or [中文案例](examples/first-session.zh-CN.md).
+## Where would you like to start?
 
-## What it helps you do
+| Entry | Try saying | Experience |
+| --- | --- | --- |
+| Discover yourself | “Start my career adventure. What's my career character?” | Light quiz → editable character card → work interpretation → your choice of direction |
+| Talk about today | “I need to vent. Please don't give me a plan yet.” | Listening, celebration, problem-solving, or reflection; no compulsory logging |
+| Choose a next step | “I want project ownership, but I'm always firefighting.” | A realistic experiment, followed by reflection when you return |
 
-| When you need help | What you get |
-| --- | --- |
-| “I can't remember what I accomplished.” | A conversation that recovers a factual accomplishment card |
-| “Help me log today's work.” | A record of actions, outcomes, open questions, and lessons |
-| “Help me reflect on this week.” | Project-level patterns and a useful next step from available records |
-| “My review or promotion discussion is coming up.” | A draft grounded in your contribution and actual criteria |
-| “I'm preparing for a job change.” | Resume material and interview stories based on real experience |
-| “What should I work on next?” | A small growth experiment with an observable outcome |
+You can also jump straight to “My review is tomorrow; help me draft it.” Serious mode skips playful titles.
 
-Coordination, maintenance, troubleshooting, and failed attempts count too. Playful titles are optional and stay out of formal materials.
+**Growth comes from recognizable changes:** handling a disagreement more independently, noticing a warning earlier, or reusing a method. No invented progress, arbitrary XP, streak penalties, or pressure to keep logging.
+
+## Explore before installing
+
+- [English walkthrough](examples/first-session.en.md): discovery, character card, direction, and returning to chat.
+- [完整中文体验](examples/first-session.zh-CN.md): the same capabilities in Chinese.
+- [Workplace field guides](guides/README.md): three readable guides; no installation needed.
+- [Bilingual tryout](examples/tryout.md): experience and feedback checklist.
+
+The guides cover busywork and growth, constant firefighting, and overlooked contributions. They are contextual practical advice, not scientific laws.
 
 ## Install and start
 
-This is an instruction-based Agent Skill, **not a standalone app**. It requires an AI host that can load skills. The package needs no API key, server, or additional runtime; the host's own access and usage costs still apply. File tools are needed to save an archive.
+This is an instruction-based Agent Skill, **not a standalone app**. It requires an AI host that can load skills. The baseline experience uses text/Markdown cards, not guaranteed clickable controls or animations. The package needs no API key, server, or additional runtime; the host's own access and usage costs still apply. File tools are needed to save an archive.
 
 ### In Codex
 
@@ -54,8 +57,8 @@ https://github.com/Olandooooes/career-growth-plan
 Then ask:
 
 ```text
-Use $career-growth-plan. My performance review is in two months.
-Help me turn one recent work experience into an accomplishment card.
+Use $career-growth-plan. Start with a few fun questions
+and help me discover my career character.
 ```
 
 For manual installation on macOS/Linux with Git, clone into the user skills directory documented by Codex:
@@ -95,6 +98,7 @@ Without file tools, you get copyable text and an explicit “not saved” status
 ## Project files
 
 - [SKILL.md](SKILL.md): shared behavior and language policy.
+- [Companion experience](references/companion-experience.md): discovery, characters, daily modes, and growth.
 - [Goals and outputs](references/goals-and-outputs.md): reviews, promotion, interviews, and growth actions.
 - [Local records](references/local-records.md): archive locations, evidence, and incremental updates.
 - [UI metadata](agents/openai.yaml): display name and suggested starting prompt.

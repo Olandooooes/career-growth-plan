@@ -1,0 +1,4 @@
+interface:
+  display_name: "Career Growth Companion · 职场大神养成计划"
+  short_description: "Turn work into evidence, reflection, and career action."
+  default_prompt: "Use $career-growth-plan in my language to turn one recent work experience into an accomplishment card and a practical next step."

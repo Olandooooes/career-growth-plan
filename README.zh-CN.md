@@ -120,6 +120,8 @@ git clone https://github.com/Olandooooes/career-growth-plan.git \
 
 ## 项目状态与参与方式
 
+如果试玩帮你说清了一件工作、练好了一次对话，欢迎给仓库点一个 **Star**，方便以后找到它。也欢迎把试玩链接分享给正遇到同样问题的人；无需 Star 即可使用全部内容。
+
 目前是早期版本。案例展示预期行为，不是实测成绩、用户评价或职业结果证明；不承诺升职、录用或薪资变化。
 
 **[告诉我们哪一句让你觉得“懂我”，或哪一步让你想退出](https://github.com/Olandooooes/career-growth-plan/issues/new?template=experience.yml)。** 只提交你愿意公开的脱敏内容，无需提供公司、薪资或私人档案。

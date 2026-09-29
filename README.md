@@ -120,6 +120,8 @@ For continuity without persistent memory, ask for a handoff card: background you
 
 ## Status and contributions
 
+If a trial helped you explain your work or practice a conversation, consider **starring the repository** to find it again. You can also share a trial link with someone facing a similar situation. All content is available without starring.
+
 This is an early version. Examples illustrate intended behavior; they are not benchmark results, user testimonials, or proof of career outcomes. No promotion, hiring, or salary outcome is promised.
 
 **[Tell us what felt useful—or where you wanted to leave](https://github.com/Olandooooes/career-growth-plan/issues/new?template=experience.yml).** Share only redacted content you are comfortable making public; employer names, salary, and private archives are unnecessary.

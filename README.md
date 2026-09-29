@@ -20,6 +20,12 @@ Explore a few playful questions, discover your career character, understand what
 
 *Fictional character card: a playful lens, not a psychological assessment or job title. Its observations need checking against your experience.*
 
+## Try it before installing
+
+**[Copy a prompt and start a conversation →](examples/start-here.en.md)**
+
+Discover your career character, translate your work into plain / playful / professional language, or rehearse a difficult conversation. Paste a prompt into your usual AI chat. This is a lightweight trial; the full skill also supports reflection, career materials, and local records.
+
 ## Where would you like to start?
 
 | Entry | Try saying | Experience |
@@ -27,6 +33,11 @@ Explore a few playful questions, discover your career character, understand what
 | Discover yourself | “Start my career adventure. What's my career character?” | Light quiz → editable character card → work interpretation → your choice of direction |
 | Talk about today | “I need to vent. Please don't give me a plan yet.” | Listening, celebration, problem-solving, or reflection; no compulsory logging |
 | Choose a next step | “I want project ownership, but I'm always firefighting.” | A realistic experiment, followed by reflection when you return |
+
+**Two tools for a specific moment:**
+
+- **Work translator:** “I just chase people for updates. Help me explain what I do.” Playful metaphors can be extravagant; professional statements stay factual.
+- **Conversation practice:** “Play my manager. I want to ask for project ownership.” Practice one turn at a time, pause for help, and finish with one improvement and a fallback.
 
 You can also jump straight to “My review is tomorrow; help me draft it.” Serious mode skips playful titles.
 
@@ -95,10 +106,13 @@ When you request saving and file tools are available, the assistant maintains a 
 
 Without file tools, you get copyable text and an explicit “not saved” status. There is no built-in background collection, automatic reminder, or account sync. This skill adds no telemetry or backend, but content you discuss is still processed under your AI host's data settings. Review and redact employer information before sharing it.
 
+For continuity without persistent memory, ask for a handoff card: background you accept, your direction, actions attempted, and an open question. Paste it into your next chat. The assistant should not claim that a copyable card has been saved.
+
 ## Project files
 
 - [SKILL.md](SKILL.md): shared behavior and language policy.
 - [Companion experience](references/companion-experience.md): discovery, characters, daily modes, and growth.
+- [Work lab](references/work-lab.md): work translation and turn-by-turn rehearsal.
 - [Goals and outputs](references/goals-and-outputs.md): reviews, promotion, interviews, and growth actions.
 - [Local records](references/local-records.md): archive locations, evidence, and incremental updates.
 - [UI metadata](agents/openai.yaml): display name and suggested starting prompt.
@@ -107,6 +121,8 @@ Without file tools, you get copyable text and an explicit “not saved” status
 ## Status and contributions
 
 This is an early version. Examples illustrate intended behavior; they are not benchmark results, user testimonials, or proof of career outcomes. No promotion, hiring, or salary outcome is promised.
+
+**[Tell us what felt useful—or where you wanted to leave](https://github.com/Olandooooes/career-growth-plan/issues/new?template=experience.yml).** Share only redacted content you are comfortable making public; employer names, salary, and private archives are unnecessary.
 
 Issues and pull requests in **English or Chinese** are welcome. The most useful feedback includes a redacted prompt, what happened, and what you expected. Do not submit real private career archives. When changing behavior or installation steps, update both READMEs; keep one authoritative `SKILL.md` rather than separate language forks.
 

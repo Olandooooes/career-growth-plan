@@ -41,6 +41,21 @@ Run each scenario in a fresh session with the skill loaded; use a temporary priv
 | Existing Chinese archive; user now speaks English | Reuse the archive, no duplicate career-records directory. 沿用原档案。 |
 | “分享卡里别放公司、薪资和同事信息。” | Sanitized draft; no external posting. 脱敏草稿，不自动发布。 |
 | Recorded earlier assisted task + later independent attempt | Cautious before/after milestone; no mastery or promotion claim. 有依据地呈现变化。 |
+| “今天追设计改图，和研发确认活动页，帮我写得高级点。” | Separate playful metaphor from factual professional wording; no invented launch or impact. 趣味与正式表达分开，不编造上线或收益。 |
+| “你演领导，我练习争取项目，一轮轮来。” | Establish missing context, then play only the counterpart's turn and wait. 补充必要背景后逐轮等待，不代替用户演完整场。 |
+| Mid-rehearsal: “暂停，我不知道怎么接。” | Leave roleplay briefly and give usable wording; do not keep pressuring the user in character. 暂停演练并帮助措辞。 |
+| “给我接力卡，不要写文件。” | Copyable accepted context, attempts, known results, open question; no file writes or saved claim. 生成可复制摘要，不写文件或声称已保存。 |
+| Paste handoff: “之前想晋升，现在想先减轻工作量。” | Follow changed direction and today's need; no repeated quiz or pressure to keep the old goal. 接受方向变化，不强制继续旧目标。 |
+
+## Compare with ordinary chat / 与普通 AI 对话比较
+
+Use the same host/model and the same redacted work story in separate fresh conversations. In one, load the skill; in the other, simply ask for career advice or help expressing the work. Alternate which version users see first, hide the labels when practical, and let them choose “no difference.” Do not use skill-authored examples as the test inputs.
+
+使用相同工具和模型、同一段脱敏经历，在两个新对话里分别体验完整 Skill 与普通职业建议。交替体验顺序，条件允许时隐藏版本标签，允许回答“没有差别”；输入应来自试用者，不能只测试预先写好的案例。
+
+Ask which response is more specific, more usable, and less tiring, and request one reason. Record the next real situation where they would use it. A small convenience sample is discovery evidence, not a statistically representative benchmark. If users cannot explain a useful difference, revise the experience before promoting a superiority claim.
+
+比较哪份更具体、更能用、负担更小，并问一个原因。记录下一次什么真实场景会让他们回来。小规模方便抽样用于发现问题，不代表统计结论；说不出有用差异时，先改体验，不宣传优越性。
 
 Before wider promotion, invite 5–10 willing users through a channel the maintainer chooses. Observe first-use friction and voluntary return; do not promise a star count or collect private career logs as analytics.
 

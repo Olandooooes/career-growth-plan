@@ -1,0 +1,55 @@
+name: Experience feedback / 体验反馈
+description: Tell us what worked or where you got stuck. 分享有用的一刻或卡住的地方。
+title: "[Experience] "
+body:
+  - type: markdown
+    attributes:
+      value: |
+        This issue is public. Use Chinese or English. Remove employer/client names, private records, and identifying details.
+        这里的内容公开可见。中英文均可，请删除公司、客户、私人档案及可识别个人的信息。
+  - type: dropdown
+    id: entry
+    attributes:
+      label: What did you try? / 体验了什么？
+      options:
+        - Character discovery / 角色探索
+        - Work translator / 工作翻译器
+        - Conversation practice / 对话陪练
+        - Vent or celebrate / 吐槽或庆祝
+        - Reflection or career materials / 复盘或职业材料
+        - Continuity or installation / 接着聊或安装
+        - Something else / 其他
+    validations:
+      required: true
+  - type: textarea
+    id: experience
+    attributes:
+      label: What happened? / 哪一刻有用，或哪里不对？
+      description: A short redacted input/output excerpt helps. 可以贴一小段脱敏输入与输出，也可以直接描述。
+    validations:
+      required: true
+  - type: textarea
+    id: expected
+    attributes:
+      label: What would have helped? / 你当时更希望得到什么？
+  - type: input
+    id: host
+    attributes:
+      label: AI tool and model, if known / 使用的工具和模型（可选）
+      description: Also note full skill or copy-paste trial. 可注明完整 Skill 或复制提示词试玩。
+  - type: dropdown
+    id: return
+    attributes:
+      label: Would you use it again? / 你会再次使用吗？
+      options:
+        - For a specific situation / 遇到具体事情时会
+        - Regularly / 会经常使用
+        - Unsure / 还不确定
+        - Probably not / 大概不会
+  - type: checkboxes
+    id: privacy
+    attributes:
+      label: Public content / 公开内容
+      options:
+        - label: I have removed information I do not want public. / 我已删除不希望公开的信息。
+          required: true

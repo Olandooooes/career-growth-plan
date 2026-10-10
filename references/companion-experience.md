@@ -4,7 +4,7 @@ Read for discovery, character cards, choosing a direction, daily companionship, 
 
 ## Optional self-discovery session
 
-Use this opening only for an explicit character-discovery request. A generic start uses the KPI entry point in SKILL.md; do not route it here by default. A discovery request invites a light quiz. Start with one question; wait for an answer. Offer choices plus free text. Skip answers already supplied. Usually two to four short exchanges are enough for a provisional card, but never promise a diagnosis from a fixed number of questions.
+Use this opening only for an explicit character-discovery request. A generic start uses the everyday-work accomplishment entry point in SKILL.md; do not route it here by default. A discovery request invites a light quiz. Start with one question; wait for an answer. Offer choices plus free text. Skip answers already supplied. Usually two to four short exchanges are enough for a provisional card, but never promise a diagnosis from a fixed number of questions.
 
 Chinese opening:
 

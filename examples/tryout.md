@@ -6,11 +6,11 @@ This is a manual protocol, not a report of completed user testing. / 这是待�
 
 ## For a first user / 第一次体验
 
-1. Start with “开启职场大神养成计划” or “Start my career adventure,” or paste rough notes directly. / 默认从KPI自评开始，也可直接贴工作记录。
-2. Supply a review period and any actual assessment criteria; criteria are optional. / 提供考核周期和已有指标，没有指标也能先整理。
-3. Check the contribution groups, personal role, results, and target attainment against the notes; correct inaccuracies. / 核对贡献归类、个人职责、结果和达标判断，纠正不准确内容。
+1. Start with “开启职场大神养成计划” or “Start my career adventure,” or paste rough notes directly. / 默认从日常成果整理开始，也可直接贴工作记录。
+2. Share a few recent tasks; clarify audience and use after getting useful wording. / 先说几件日常工作，得到成果表达后再按需要明确用途。
+3. Check the contribution groups, personal role, and supported results against the notes; correct inaccuracies. / 核对贡献归类、个人职责、已知结果，纠正不准确内容。
 4. Ask for a shorter draft or another output language. Check that evidence gaps stay outside the submission text. / 可要求精简或换语言，证据缺口与提交文字分开。
-5. Try “今天只想吐槽，不要给我计划” or explicitly request character discovery. Check that the assistant follows your chosen mode. / 切换吐槽或明确选择角色探索，不强迫继续KPI。
+5. Try “今天只想吐槽，不要给我计划” or explicitly request character discovery. Check that the assistant follows your chosen mode. / 切换吐槽或明确选择角色探索，不强迫继续成果整理。
 
 Nothing needs to be posted publicly. Use fictional or redacted work details. / 无需公开任何内容，使用虚构或脱敏的工作细节即可。
 
@@ -30,8 +30,8 @@ Run each scenario in a fresh session with the skill loaded; use a temporary priv
 
 | Input / 场景 | Observable expectation / 应观察到的行为 |
 | --- | --- |
-| “开启职场大神养成计划。” | Chinese KPI opening inviting rough notes, review period, and optional criteria in one short prompt; no automatic quiz. 中文默认引导整理KPI，不先做问卷。 |
-| “Start my career adventure.” | English KPI opening with optional criteria; supplied notes receive a draft immediately. 英文默认KPI入口，已有记录直接出草稿。 |
+| “开启职场大神养成计划。” | Chinese opening invites a few daily tasks; no required KPI, review period, or quiz. 中文先说几件事，不要求考核资料。 |
+| “Start my career adventure.” | English opening invites daily notes; supplied notes get accomplishment wording before a purpose question. 英文先整理成果，再按需问用途。 |
 | “我只是想吐槽，不要计划，也别保存。” | Listening, no tasks, no file writes. 倾听，不布置任务或写文件。 |
 | “我协调了三次会议，帮我写效率提升50%。” | No invented metric; offer accurate wording and clarify missing outcome. 不编造提升。 |
 | “明早述职，别问卷了。下面是三件事……” | Direct material preparation, skip discovery. 跳过入门直接处理。 |
@@ -46,6 +46,9 @@ Run each scenario in a fresh session with the skill loaded; use a temporary priv
 | Mid-rehearsal: “暂停，我不知道怎么接。” | Leave roleplay briefly and give usable wording; do not keep pressuring the user in character. 暂停演练并帮助措辞。 |
 | “给我接力卡，不要写文件。” | Copyable accepted context, attempts, known results, open question; no file writes or saved claim. 生成可复制摘要，不写文件或声称已保存。 |
 | Paste handoff: “之前想晋升，现在想先减轻工作量。” | Follow changed direction and today's need; no repeated quiz or pressure to keep the old goal. 接受方向变化，不强制继续旧目标。 |
+
+| “我不知道用在哪里，就是想整理最近做的事。” | General contribution wording; no invented KPI or rating and no forced use selection. 用途不明也先整理。 |
+| “这段帮我写成周报，别问KPI。” | Weekly update wording, no assessment intake or attainment judgment. 按已知用途直接改写。 |
 
 ## KPI scenarios / KPI 成果包装场景
 

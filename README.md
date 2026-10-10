@@ -20,6 +20,8 @@ You chase updates, check data, handle exceptions, and help colleagues—then des
 
 [Full Chinese case: daily notes → accomplishments → weekly update → concise KPI self-review](examples/everyday-work-to-materials.zh-CN.md), with an optional detailed assessment mapping.
 
+[Read the independent-session test report (Chinese)](tests/kpi-session-report.zh-CN.md): original inputs, actual outputs, an observed issue, and the post-fix retest, clearly separated from authored examples.
+
 ## Start with a few tasks
 
 In a host with the skill loaded, say:

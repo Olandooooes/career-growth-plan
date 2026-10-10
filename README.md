@@ -34,14 +34,35 @@ Discover your career character, translate your work into plain / playful / profe
 | Talk about today | “I need to vent. Please don't give me a plan yet.” | Listening, celebration, problem-solving, or reflection; no compulsory logging |
 | Choose a next step | “I want project ownership, but I'm always firefighting.” | A realistic experiment, followed by reflection when you return |
 
-**Two tools for a specific moment:**
+**Three tools for a specific moment:**
 
 - **Work translator:** “I just chase people for updates. Help me explain what I do.” Playful metaphors can be extravagant; professional statements stay factual.
+- **KPI accomplishment lab:** “I do a lot of small tasks but cannot explain my contribution.” Group scattered work, map it to review criteria, and get copy-ready self-assessment wording with evidence gaps listed separately.
 - **Conversation practice:** “Play my manager. I want to ask for project ownership.” Practice one turn at a time, pause for help, and finish with one improvement and a fallback.
 
 You can also jump straight to “My review is tomorrow; help me draft it.” Serious mode skips playful titles.
 
 **Growth comes from recognizable changes:** handling a disagreement more independently, noticing a warning earlier, or reusing a method. No invented progress, arbitrary XP, streak penalties, or pressure to keep logging.
+
+## Do strong work, and make it visible
+
+Built for people who contribute a great deal but struggle to express it during assessments. Paste rough task lists, weekly updates, or work notes; no character quiz is required.
+
+```text
+Use $career-growth-plan to prepare my quarterly KPI self-assessment.
+Group my scattered work into contributions, map it to my actual KPIs,
+and draft wording I can submit. List missing evidence separately.
+My assessment criteria: …
+My work notes: …
+```
+
+Get a **contribution-to-KPI table, copy-ready accomplishment statements, and a short evidence checklist**. Without company criteria, the skill uses explicitly provisional contribution themes.
+
+For example, “chased three departments for reports, consolidated 12 editions, coordinated corrections to five definition discrepancies, and shared a definitions note” becomes:
+
+> Coordinated weekly report collection across three departments and consolidated 12 reports this quarter; identified and coordinated correction of five reporting-definition discrepancies, then distributed a definitions note to support consistency.
+
+*Figures are fictional examples; actual drafts use only supplied facts.* Strong framing makes the problem, action, and contribution explicit. It preserves actual responsibility, avoids invented improvement percentages, and uses concrete deliverables when outcome metrics are unavailable. Missed targets remain visible with gaps and next steps.
 
 ## Explore before installing
 
@@ -113,6 +134,7 @@ For continuity without persistent memory, ask for a handoff card: background you
 - [SKILL.md](SKILL.md): shared behavior and language policy.
 - [Companion experience](references/companion-experience.md): discovery, characters, daily modes, and growth.
 - [Work lab](references/work-lab.md): work translation and turn-by-turn rehearsal.
+- [KPI accomplishment lab](references/kpi-accomplishments.md): contribution grouping, KPI mapping, formal wording, and evidence gaps.
 - [Goals and outputs](references/goals-and-outputs.md): reviews, promotion, interviews, and growth actions.
 - [Local records](references/local-records.md): archive locations, evidence, and incremental updates.
 - [UI metadata](agents/openai.yaml): display name and suggested starting prompt.

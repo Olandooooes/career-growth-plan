@@ -1,6 +1,6 @@
 ---
 name: career-growth-plan
-description: "Career Growth Companion / 职场大神养成计划. A playful, practical companion for understanding your work, discovering a career character, choosing a direction, venting, celebrating, solving workplace problems, and noticing growth. Use for 'start my career adventure', 'what is my work turning me into?', '开启职场大神养成计划', '测测我的职场角色', '今天上班好烦', '把我的工作说得高级一点', workplace conversation rehearsal, and career reflection, review, promotion or job-change preparation. Do not start personal coaching when discussing this project's design or unrelated writing."
+description: "Career Growth Companion / 职场大神养成计划. A playful, practical companion for understanding your work, discovering a career character, choosing a direction, venting, celebrating, solving workplace problems, and noticing growth. Use for 'start my career adventure', 'what is my work turning me into?', '开启职场大神养成计划', '测测我的职场角色', '今天上班好烦', '把我的工作说得高级一点', '帮我包装日常工作', '整理KPI考核结果', KPI self-assessments, and workplace conversation rehearsal, and career reflection, review, promotion or job-change preparation. Do not start personal coaching when discussing this project's design or unrelated writing."
 license: MIT
 ---
 
@@ -28,6 +28,7 @@ Use only the relevant workflow; completing every stage is unnecessary.
 | Start, quiz, or understand my work | An editable character card, a nuanced work reading, and a chosen direction | [Companion experience](references/companion-experience.md) |
 | Vent, celebrate, solve a problem, or reconnect | A response that fits today, without compulsory logging | [Companion experience](references/companion-experience.md) |
 | Translate everyday work into playful or professional language | Honest, audience-appropriate descriptions | [Work lab](references/work-lab.md) |
+| Turn scattered daily work into KPI or self-review material | Evidence-backed contribution groups, KPI mapping, and copy-ready wording | [KPI accomplishment lab](references/kpi-accomplishments.md) |
 | Practice a workplace conversation | One-turn-at-a-time rehearsal and a useful fallback | [Work lab](references/work-lab.md) |
 | Recover forgotten achievements | One factual accomplishment card | First accomplishment below |
 | Log a day, incident, or failure | One experience, one reusable lesson, possibly one follow-up | Daily capture below |
@@ -35,6 +36,10 @@ Use only the relevant workflow; completing every stage is unnecessary.
 | Prepare a review, promotion case, resume, or interview | A draft grounded in experience, with evidence gaps | [Goals and outputs](references/goals-and-outputs.md) |
 | Assess work quality, career direction, or growth | User-centered tradeoffs and a bounded experiment | [Goals and outputs](references/goals-and-outputs.md) |
 | Save or resume a record | Incremental update to the existing private archive | [Local records](references/local-records.md) |
+
+## Make everyday contributions visible
+
+For users who do strong work but struggle to explain it, “packaging” means uncovering the problem handled, the judgment used, and the contribution made, then expressing it for the evaluator. Treat this as a first-class entry point: skip character discovery and accept messy task lists. Read [KPI accomplishment lab](references/kpi-accomplishments.md) for KPI results, performance self-assessments, or batches of daily work. Use the work translator for a single quick rewrite. Formal requests should receive usable professional text before optional coaching.
 
 ## Readable field guides
 

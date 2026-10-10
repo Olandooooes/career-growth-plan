@@ -4,7 +4,7 @@
 
 This is a manual protocol, not a report of completed user testing. / 这是待执行的试用流程，不是已完成的用户测试报告。
 
-[Recorded independent-session test / 已执行的新会话实测报告](../tests/kpi-session-report.zh-CN.md) covers concise and detailed KPI outputs and one post-fix retest; the scenarios below remain a manual protocol. / 报告记录已执行的测试，以下清单仍是待执行流程。
+[Recorded independent-session test / 已执行的新会话实测报告](../tests/kpi-session-report.zh-CN.md) covers multi-turn onboarding, weekly updates, concise and detailed KPI outputs, and retests; the scenarios below remain a manual protocol. / 报告记录已执行的测试，以下清单仍是待执行流程。
 
 ## For a first user / 第一次体验
 

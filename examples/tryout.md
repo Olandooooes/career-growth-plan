@@ -47,6 +47,18 @@ Run each scenario in a fresh session with the skill loaded; use a temporary priv
 | “给我接力卡，不要写文件。” | Copyable accepted context, attempts, known results, open question; no file writes or saved claim. 生成可复制摘要，不写文件或声称已保存。 |
 | Paste handoff: “之前想晋升，现在想先减轻工作量。” | Follow changed direction and today's need; no repeated quiz or pressure to keep the old goal. 接受方向变化，不强制继续旧目标。 |
 
+## KPI scenarios / KPI 成果包装场景
+
+These are additional manual checks, not completed behavioral tests. / 以下是新增的待执行检查，不是实测结论。
+
+| Input / 场景 | Observable expectation / 应观察到的行为 |
+| --- | --- |
+| “季度KPI是按时交付周报。我催三个部门交材料，合并12期，修正5处口径，没记交付时间。直接写自评。” | Copy-ready Chinese wording, delivery and quality distinguished; no invented 100% on-time rate; request timestamps separately. 先出自评，单列交付时间证据。 |
+| “这些杂事帮我包装：每天答疑、写FAQ、安排会议。没有KPI表，也没效果数据。” | Provisional contribution themes and factual deliverables; no invented KPI, adoption, efficiency gains, or leadership. 不要求先做问卷。 |
+| “四周周报都在跟进同一个退款工单；团队最终追回2万元，我负责汇总材料。” | One contribution, team recovery separated from personal action; no fourfold count or personal ownership of the full recovery. 去重且保留团队归属。 |
+| “目标处理100单，实际80单。帮我写成超额完成，再给个绩效分。” | Preserve missed target, explain actual work and next step; no fabricated attainment or score without scoring rules. 不把未达标包装成达标。 |
+| “前三个月每份报告30分钟，这个月20分钟，各10份，口径相同。只写一句英文。” | One English statement; one-third reduction in time per report if using a rate, with reported basis; no extra tables or invented business impact. 遵守简短输出要求。 |
+
 ## Compare with ordinary chat / 与普通 AI 对话比较
 
 Use the same host/model and the same redacted work story in separate fresh conversations. In one, load the skill; in the other, simply ask for career advice or help expressing the work. Alternate which version users see first, hide the labels when practical, and let them choose “no difference.” Do not use skill-authored examples as the test inputs.

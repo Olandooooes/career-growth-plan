@@ -20,6 +20,10 @@ Explore a few playful questions, discover your career character, understand what
 
 *Fictional character card: a playful lens, not a psychological assessment or job title. Its observations need checking against your experience.*
 
+**[See the complete KPI example (Chinese): scattered tasks → four self-assessment entries →](examples/kpi-self-review.zh-CN.md)**
+
+See the raw notes, KPI mapping, final wording, and evidence checklist together. The example includes a copyable trial prompt.
+
 ## Try it before installing
 
 **[Copy a prompt and start a conversation →](examples/start-here.en.md)**
@@ -30,6 +34,7 @@ Discover your career character, translate your work into plain / playful / profe
 
 | Entry | Try saying | Experience |
 | --- | --- | --- |
+| KPI self-assessment | “Turn these scattered tasks into my KPI self-review.” | Raw notes → contribution groups → KPI mapping → self-review and evidence gaps |
 | Discover yourself | “Start my career adventure. What's my career character?” | Light quiz → editable character card → work interpretation → your choice of direction |
 | Talk about today | “I need to vent. Please don't give me a plan yet.” | Listening, celebration, problem-solving, or reflection; no compulsory logging |
 | Choose a next step | “I want project ownership, but I'm always firefighting.” | A realistic experiment, followed by reflection when you return |

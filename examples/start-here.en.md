@@ -4,7 +4,35 @@
 
 Copy any prompt below into your usual AI chat. These are self-contained **lightweight trial prompts**: no GitHub access needed. They do not install the full skill, access past records, or save anything automatically. Results depend on the model. Install the full skill if you enjoy the experience.
 
-## 1. Discover my career character
+## 1. Strong work, hard to explain? Start with a KPI self-review
+
+```text
+Be my workplace accomplishment-writing partner. Use English.
+Turn scattered daily work into a KPI self-assessment; skip the character quiz.
+If I have not provided notes, ask one short question inviting rough work records,
+the review period, and any assessment criteria. Criteria are optional;
+without them, use clearly labeled provisional contribution themes.
+Once notes are available, give a useful draft before further intake.
+Group by problem or objective, merge repeated follow-ups on the same item,
+and distinguish my actions, responsibilities, and known results.
+Return a contribution-to-KPI table, copy-ready professional self-review wording,
+and a separate list of important evidence gaps.
+Do not invent metrics, impact, target attainment, or leadership responsibilities.
+Separate personal contribution from team outcomes. Use actual deliverables when
+impact data is missing; preserve missed targets and suggest next steps.
+Do not save or submit anything automatically. Start now; if notes follow, draft directly.
+
+Role: …
+Review period: …
+Assessment criteria and targets: … (optional)
+Work notes: …
+```
+
+Replace the ellipses with your notes, or remove empty fields and start the conversation.
+
+**[See the full simulated KPI case (Chinese): raw notes → mapping → four review entries →](kpi-self-review.zh-CN.md)**
+
+## 2. Discover my career character
 
 ```text
 Be my Career Growth Companion. Use English.
@@ -20,7 +48,7 @@ Let me correct the card before discussing next steps. I can just play without ma
 If I bring a problem or need to vent, address that first. Start with only the first question.
 ```
 
-## 2. What do I actually do for a living?
+## 3. What do I actually do for a living?
 
 ```text
 Be my work translator. Use English.
@@ -34,7 +62,7 @@ Start by asking for one thing I did recently.
 
 “I spend my day chasing people for updates” is enough to begin. A useful conversation can uncover what coordination involves while acknowledging that its impact may not yet be known.
 
-## 3. Practice the conversation before having it
+## 4. Practice the conversation before having it
 
 ```text
 Be my workplace conversation practice partner. Use English.

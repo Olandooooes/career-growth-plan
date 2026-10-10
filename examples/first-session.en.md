@@ -1,62 +1,67 @@
-# First session: turn daily work into a KPI self-review
+# First session: everyday tasks become truthful accomplishments
 
 **English** | [简体中文](first-session.zh-CN.md) · [Back to README](../README.md)
 
-An authored fictional walkthrough, not a recorded test or testimonial. Work notes and numbers are simulated; actual behavior depends on the model and host.
+A fictional walkthrough, not a recorded test or testimonial. Notes and numbers are simulated.
 
-## Default opening: start with work notes
+## Default opening: start with what you did
 
 **You:** Start my career adventure.
 
-**Companion:** Doing plenty of work but struggling to explain it in your review? Share rough work notes, the review period, and any assessment criteria. I can help draft your self-assessment; criteria are optional.
+**Companion:** What has kept you busy lately? Share a few tasks or rough notes, and I'll help identify your real contribution.
 
-**You:** I'm in operations, preparing this month's review. My targets are four weekly reports, all on time, and one FAQ. I chased Sales and Support for data and produced four reports; three were on time and one late. I found inconsistent refund figures, coordinated a correction with Support, and removed two duplicate orders. I answer questions daily and shared an eight-question FAQ in the team chat, but don't know if anyone used it. Data was missing for the late report, and I didn't flag the risk early.
+**You:** I'm in administration; it feels like small tasks. This month I chased 18 expense submissions. Four lacked attachments, so I followed up and handed the completed materials to Finance. I arranged six meetings; once the projector broke, I found a backup and that meeting started normally. I checked office supplies, replenished two consumables, and wrote a purchasing list.
 
-**Companion:** Here's the mapping and copy-ready wording. This is based on your account; attachments have not been checked.
+**Companion:** Your work covers expense paperwork, meeting support, and supplies. Here's useful wording first:
 
-| Criterion | Personal contribution | Actual result and assessment |
-| --- | --- | --- |
-| Weekly reporting | Coordinated collection, refund reconciliation, and duplicate removal | Four reports, three on time; volume met, all-on-time target missed |
-| Knowledge documentation | Compiled and shared an eight-question FAQ | One document delivered; delivery target met, adoption unknown |
+> Organized 18 expense submissions, identified and followed up on missing attachments in four, and handed completed materials to Finance. Arranged six meetings and coordinated backup equipment during one projector failure so that meeting could start normally. Completed a supplies check, replenished two consumables, and prepared a purchasing list.
 
-**Self-review draft:**
+Handover does not establish that Finance paid the claims; arranging six meetings does not establish that all started on time. For formal use, check handover records, meeting arrangements, and the purchasing list.
 
-> **Reporting:** Coordinated data collection and reconciliation with Sales and Support and delivered four weekly reports this month, three on time. Identified and coordinated correction of inconsistent refund figures and removed two duplicate orders. The timeliness target was not fully met: source data was incomplete for the delayed report, and I did not flag the risk early. Next month I plan to clarify data deadlines and communicate missing inputs and delivery risks earlier.
->
-> **Knowledge documentation:** Compiled eight common questions and handling steps about coupons and refunds into one FAQ and shared it in the team chat. I plan to gather usage feedback and add issues that still need repeated explanations.
+Who will read this, and what is it for? You can also keep it as general accomplishment material.
 
-**Evidence to add separately:** Submission timestamps and deadlines, correction records, and the FAQ with its sharing record. Sharing a document does not establish efficiency gains; one late report cannot become an all-on-time claim.
+## Choose a use after getting value
 
-## Next turn: correct, then shorten
-
-**You:** The FAQ only covers refunds, not coupons. My form has limited space; shorten the draft.
-
-**Companion:** I've removed coupons from the FAQ description:
-
-> Delivered four weekly reports this month, three on time; coordinated correction of inconsistent refund figures and removed two duplicate orders. One report was late; I plan to flag data gaps and delivery risks earlier. Compiled eight refund-process questions into one FAQ and shared it with the team, completing the documentation deliverable.
-
-*User corrections take precedence. The earlier coupon detail was unsupported and is removed, not retained as fact. Check evidence before submission; nothing was saved or submitted in this example.*
-
-## Without company KPIs
-
-**You:** I don't have next month's criteria yet. I just want to organize the small tasks.
-
-**Companion:** We can use provisional themes such as “report delivery and reconciliation” and “support and knowledge documentation,” then map them to company criteria later. These are not official KPIs.
-
-## Change the mode when needed
-
-**You:** A last-minute task derailed today. No accomplishment writing or plan, please.
-
-**Companion:** Having your original commitments displaced can be frustrating. What bothered you most: the task itself, or nobody addressing the priorities already agreed?
-
-*Continue listening; no compulsory KPI draft, homework, or saving. An explicit “discover my career character” request can still start the optional discovery flow.*
-
-## Continue next time
-
-**You:** Give me a handoff card, without writing a file.
+**You:** A monthly summary. Don't make it sound like I led a big project.
 
 **Companion:**
 
-> User-carried context, not saved: Operations; four monthly weekly reports, three on time; one eight-question refund FAQ. Current purpose: KPI self-review. Coupons are not part of the FAQ. Missing evidence: reporting timestamps, correction records, and document sharing. Next time, map new work to company criteria when available.
+- **Expense support:** Organized 18 submissions and followed up on four missing attachments before handover to Finance.
+- **Meeting support:** Arranged six meetings and coordinated backup equipment during one projector failure so that meeting started normally.
+- **Supplies:** Checked office supplies, replenished two consumables, and prepared a purchasing list.
 
-[Full four-KPI simulated case (Chinese)](kpi-self-review.zh-CN.md) · [Copy a standalone trial prompt](start-here.en.md)
+These statements preserve your actual support role.
+
+## Correct personal responsibility
+
+**You:** I didn't purchase the supplies. I only submitted replenishment requests and the list.
+
+**Companion:** The supplies statement becomes:
+
+> Checked office supplies and submitted replenishment requests for two consumables with a purchasing list.
+
+*Use the corrected version; requesting replenishment is not completing it. Nothing was saved or submitted.*
+
+## KPI self-review is one later use
+
+**You:** Now I need an assessment. The criteria are timely expense handover and meeting support. I don't have handover timestamps.
+
+**Companion:** We can map the expense and meeting contributions to those criteria. The notes support activities and counts, but do not establish timely handover. Submission times and agreed deadlines are evidence gaps. Supplies can be additional work, not an invented company KPI.
+
+*Assessment mapping starts only when requested. Everyday accomplishment writing requires no KPI form.*
+
+## Follow changes in purpose or mood
+
+**You:** Today I only want to vent. No accomplishment draft or plan.
+
+**Companion:** Of course. What happened today that's frustrating you?
+
+*Do not force venting into accomplishments. Explicit character discovery remains available.*
+
+**You:** Give me a handoff card without writing a file.
+
+**Companion:**
+
+> User-carried context, not saved: Administration; 18 expense submissions, four missing attachments followed up before handover; six meetings, one backup-equipment incident; supplies check and replenishment requests for two consumables with a purchasing list. User did not complete purchasing. Material used for a monthly summary; later KPI assessment needs handover timestamps and deadlines.
+
+[Standalone trial prompt](start-here.en.md) · [Full KPI self-review use case (Chinese)](kpi-self-review.zh-CN.md)

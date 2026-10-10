@@ -12,6 +12,7 @@ body:
     attributes:
       label: What did you try? / 体验了什么？
       options:
+        - KPI self-assessment / KPI成果包装与考核自评
         - Character discovery / 角色探索
         - Work translator / 工作翻译器
         - Conversation practice / 对话陪练

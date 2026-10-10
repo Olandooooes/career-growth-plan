@@ -20,6 +20,7 @@ Honor the user's requested length and format before choosing the output structur
 
 - For “简短”, “只写一段”, or a single assessment cell, first give copy-ready prose, followed by only the necessary evidence gaps outside the submission text. Omit mapping tables, repeated explanations, and expanded versions unless requested. Do not delay the draft to collect every missing detail.
 - For complex assessments with multiple criteria, targets, weights, mixed attainment, or a template requiring comparison, use a compact mapping table when it makes the assessment easier to review. Include contribution/personal role, actual criterion (or explicitly provisional theme), supported result, and material gap. Still prioritize usable assessment wording and respect any explicit request for a short response.
+- Do not add future commitments to copy-ready self-assessment prose unless the user has supplied or confirmed them. Keep suggested next steps outside the submission text and label them as suggestions; unresolved items alone do not establish a promised plan.
 - Keep evidence-to-add lists focused on gaps that would change the claim. Do not embed invented numbers or “[XX%]” in copy-ready prose.
 
 Show a before/after example when it helps the user learn the framing. Explain the improvement briefly: making the handled issue, personal contribution, or deliverable explicit. Avoid jargon such as “赋能业务闭环” that conceals the work. A concise assessment-cell version is usually enough; add an expanded review paragraph or spoken version only when useful or requested.

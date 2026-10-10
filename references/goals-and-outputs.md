@@ -26,7 +26,7 @@ For stay-or-leave decisions, outline actual options, known tradeoffs, important 
 
 ## Performance review / 述职
 
-When the source is scattered daily tasks or the user needs KPI result wording, read [KPI accomplishment lab](kpi-accomplishments.md) to build the contribution groups and evidence before composing the review.
+For scattered daily tasks, read [Work accomplishments](work-accomplishments.md) to recover contributions. Read [KPI accomplishment lab](kpi-accomplishments.md) only when the requested review involves KPI assessment.
 
 Confirm audience, period, expected length, and priorities only when not already known. Adapt to the user's process, including probation reviews or quarterly self-assessments.
 

@@ -1,75 +1,62 @@
-# Starting a career adventure
+# First session: turn daily work into a KPI self-review
 
 **English** | [简体中文](first-session.zh-CN.md) · [Back to README](../README.md)
 
-An authored fictional walkthrough, not a recorded test or testimonial. Actual behavior depends on the model and host.
+An authored fictional walkthrough, not a recorded test or testimonial. Work notes and numbers are simulated; actual behavior depends on the model and host.
+
+## Default opening: start with work notes
 
 **You:** Start my career adventure.
 
-**Companion:** Welcome. Does your work look anything like the job description?
+**Companion:** Doing plenty of work but struggling to explain it in your review? Share rough work notes, the review period, and any assessment criteria. I can help draft your self-assessment; criteria are optional.
 
-A. Mostly — I'm learning the ropes.\
-B. One job title, five unofficial jobs.\
-C. Always busy, unsure what I'm building toward.\
-D. I've learned the routine and want a new challenge.
+**You:** I'm in operations, preparing this month's review. My targets are four weekly reports, all on time, and one FAQ. I chased Sales and Support for data and produced four reports; three were on time and one late. I found inconsistent refund figures, coordinated a correction with Support, and removed two duplicate orders. I answer questions daily and shared an eight-question FAQ in the team chat, but don't know if anyone used it. Data was missing for the late report, and I didn't flag the risk early.
 
-Or tell me your version.
+**Companion:** Here's the mapping and copy-ready wording. This is based on your account; attachments have not been checked.
 
-**You:** B. I work in operations. I chase design, coordinate with engineering, and handle everyone's last-minute requests.
+| Criterion | Personal contribution | Actual result and assessment |
+| --- | --- | --- |
+| Weekly reporting | Coordinated collection, refund reconciliation, and duplicate removal | Four reports, three on time; volume met, all-on-time target missed |
+| Knowledge documentation | Compiled and shared an eight-question FAQ | One document delivered; delivery target met, adoption unknown |
 
-**Companion:** One title, quite a few invisible roles. What recently felt satisfying to untangle — or especially draining?
+**Self-review draft:**
 
-**You:** Design and engineering were using different requirements yesterday. I listed the disagreements and got confirmation so development could resume. But I rarely own a project end to end.
-
-**Companion:** Here's a provisional character card:
-
-> **Cross-team ambiguity wrangler**
+> **Reporting:** Coordinated data collection and reconciliation with Sales and Support and delivered four weekly reports this month, three on time. Identified and coordinated correction of inconsistent refund figures and removed two duplicate orders. The timeliness target was not fully met: source data was incomplete for the delayed report, and I did not flag the risk early. Next month I plan to clarify data deadlines and communicate missing inputs and delivery risks earlier.
 >
-> **Official role:** Operations. **Everyday work:** Connecting different teams' understanding.
->
-> **Emerging strength:** You turned vague disagreements into decisions people could confirm.
->
-> **Current tension:** You want project ownership, but ad hoc coordination takes up time.
->
-> **Possible direction:** Keep that coordination strength while seeking a bounded piece of end-to-end work.
+> **Knowledge documentation:** Compiled eight common questions and handling steps about coupons and refunds into one FAQ and shared it in the team chat. I plan to gather usage feedback and add issues that still need repeated explanations.
 
-This is a reading of your example, not a fixed label. What fits, and what should we change?
+**Evidence to add separately:** Submission timestamps and deadlines, correction records, and the FAQ with its sharing record. Sharing a document does not establish efficiency gains; one late report cannot become an all-on-time claim.
 
-**You:** That fits. I'd like to try growing here before looking for another job.
+## Next turn: correct, then shorten
 
-**Companion:** Let's explore owning one bounded piece of work. Is there a small project you could discuss with the person setting priorities? Include what it would replace so ownership doesn't simply mean more overtime.
+**You:** The FAQ only covers refunds, not coupons. My form has limited space; shorten the draft.
 
-**You:** There's a small campaign next month. I could discuss that.
+**Companion:** I've removed coupons from the FAQ description:
 
-**Companion:** One experiment this week: spend roughly fifteen minutes outlining the scope you want, the support needed, and existing work to adjust. Discuss it at a suitable moment. Look for an agreed scope and support; having the conversation is not yet getting the project.
+> Delivered four weekly reports this month, three on time; coordinated correction of inconsistent refund figures and removed two duplicate orders. One report was late; I plan to flag data gaps and delivery risks earlier. Compiled eight refund-process questions into one FAQ and shared it with the team, completing the documentation deliverable.
 
-## Returning: today is for venting
+*User corrections take precedence. The earlier coupon detail was unsupported and is removed, not retained as fact. Check evidence before submission; nothing was saved or submitted in this example.*
 
-*Assume the same conversation. A new session needs supplied context or access to an existing archive.*
+## Without company KPIs
 
-**You:** Another last-minute request today. I'm frustrated. No plan, please.
+**You:** I don't have next month's criteria yet. I just want to organize the small tasks.
 
-**Companion:** You were trying to make room for something you could own, and another request took that space. What bothered you most: the task itself, or nobody addressing the commitments you already had?
+**Companion:** We can use provisional themes such as “report delivery and reconciliation” and “support and knowledge documentation,” then map them to company criteria later. These are not official KPIs.
 
-*Continue listening rather than creating a card, assigning homework, or automatically saving private frustrations.*
+## Change the mode when needed
 
-## Later: a recognizable change
+**You:** A last-minute task derailed today. No accomplishment writing or plan, please.
 
-**You:** My manager agreed I could own the campaign and reassigned one routine task. I used a confirmation checklist to resolve two disagreements earlier. The campaign hasn't happened yet.
+**Companion:** Having your original commitments displaced can be frustrating. What bothered you most: the task itself, or nobody addressing the priorities already agreed?
 
-**Companion:** Compared with ad hoc coordination, you now have a defined scope and are bringing confirmation forward. That's a first demonstrated step toward independent coordination. The campaign outcome is still unknown. Which part of the checklist would you reuse?
+*Continue listening; no compulsory KPI draft, homework, or saving. An explicit “discover my career character” request can still start the optional discovery flow.*
 
-## Sharing and saving
+## Continue next time
 
-**You:** Make a shareable card without workplace details.
+**You:** Give me a handoff card, without writing a file.
 
 **Companion:**
 
-> **Career character: Cross-team ambiguity wrangler**\
-> Turns vague disagreements into actionable questions.\
-> Current direction: own a bounded piece of work.\
-> Recent step: bringing confirmation earlier.
->
-> Career Growth Companion · A playful character, not a professional credential.
+> User-carried context, not saved: Operations; four monthly weekly reports, three on time; one eight-question refund FAQ. Current purpose: KPI self-review. Coupons are not part of the FAQ. Missing evidence: reporting timestamps, correction records, and document sharing. Next time, map new work to company criteria when available.
 
-This is a draft for you to review, not a published post. Nothing has been saved to a file in this example. For continuity, specify a private archive location.
+[Full four-KPI simulated case (Chinese)](kpi-self-review.zh-CN.md) · [Copy a standalone trial prompt](start-here.en.md)

@@ -36,7 +36,7 @@ Do not automatically translate routine execution into strategy, innovation, gove
 
 Normally start with a concise professional statement. For many tasks, a compact table can show source task → personal contribution → actual deliverable/result. Keep only the important evidence gaps separately; do not make an evidence audit a prerequisite. Fit the requested length. Do not automatically produce three lengthy deliverables.
 
-Describe problem/context → personal action → known deliverable or observed change when supported. A delivered FAQ is an accomplishment even if adoption is unknown. A task with no confirmed outcome is a supported action or work in progress, not an invented completed result. Do not convert purpose into proven impact.
+Describe problem/context → personal action → known deliverable or observed change when supported. A delivered FAQ is an accomplishment even if adoption is unknown. A task with no confirmed outcome is a supported action or work in progress, not an invented completed result. Following up or reporting a status does not establish that a written tracking record, issue log, or other artifact was created; only name such artifacts when supplied by the user. Do not convert purpose into proven impact.
 
 Example: “整理18份报销材料，4份缺附件，提醒补齐后交给财务” becomes “整理18份报销材料，识别并跟进4份缺失附件补齐后移交财务。” It does not establish payment completion or reduced processing time. All figures in examples are fictional.
 
@@ -49,5 +49,7 @@ Example: “整理18份报销材料，4份缺附件，提醒补齐后交给财�
 | Review or promotion | Read [Goals and outputs](goals-and-outputs.md); select evidence against the actual audience and expectations |
 | Resume or interview | Read [Goals and outputs](goals-and-outputs.md); select relevant personal experiences without inventing role match |
 | One quick wording improvement | Use [Work lab](work-lab.md); professional wording by default, playful versions only when requested |
+
+Do not turn unresolved work into a promised next-week plan or other future commitment in any copy-ready material unless the user has supplied or confirmed that plan. For weekly updates, list open items as pending; keep optional suggested actions outside the submission text and label them as suggestions.
 
 Do not require assessment criteria outside the KPI scenario. Work notes do not authorize saving, submission, or publication; follow the main skill’s private-record rules.

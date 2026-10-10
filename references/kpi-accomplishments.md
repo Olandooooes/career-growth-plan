@@ -1,36 +1,10 @@
 # KPI accomplishment lab / 日常工作成果包装
 
-Read for scattered task lists, KPI results, performance self-assessments, or “I do a lot but cannot explain my value.” Help capable people make overlooked work legible to an evaluator. Improve the framing, specificity, and relevance of real work; do not inflate authority or results. Match the user's language and employer's format.
+Read only when the user wants KPI results or performance self-assessment wording. This is one use of the accomplishment material, not the default workflow. First read [Work accomplishments](work-accomplishments.md) to group raw notes and preserve personal contribution.
 
-## Start with the work they already have
+## Enter the assessment scenario
 
-Accept rough notes, weekly updates, task lists, or supplied review material. Do not require polished stories or months of logging. Reuse known context; ask at most one or two high-value questions initially, usually the assessment period and actual KPI wording or template. If missing, draft immediately using provisional contribution themes and label them as such, not company KPIs. A user requesting a quick rewrite needs only a rewrite.
-
-When recall is difficult, offer concrete prompts: what did others repeatedly come to you for, what issue did you resolve, what deliverable did you maintain, or what did you organize so others could continue? Do not force all prompts at once.
-
-## Turn tasks into contributions
-
-Group by the problem solved or objective served, not by date or fancy verbs. Merge repeated follow-ups on the same issue into one contribution. Distinguish separate deliverables and time windows before summing counts. Select the themes most relevant to the supplied assessment criteria; preserve meaningful maintenance and coordination work.
-
-For each group, recover only what the notes support:
-
-- **Context:** Who needed what, or what constraint/problem existed?
-- **Personal action and judgment:** What did the user actually handle, decide, clarify, check, or coordinate? Use “supported,” “coordinated,” “owned,” or “led” according to the actual role.
-- **Deliverable or observed change:** A completed artifact, confirmed resolution, feedback, or measured outcome. If the outcome is unknown, describe the action/deliverable and keep the result gap outside the final prose.
-- **Relevance:** Why this work belongs under the objective. A plausible purpose is not proof of improved performance or prevented loss.
-- **Evidence:** User report, provided artifact, or missing support; keep the source and period attached to numbers.
-
-Common lenses help notice value, but are hypotheses until supported:
-
-| Everyday work | Contribution to look for | Evidence worth asking for |
-| --- | --- | --- |
-| Chasing updates, arranging meetings | Clarifying blockers, dependencies, and next owners | Decision notes, action lists, confirmed closure |
-| Checking data or reports | Maintaining reporting quality and identifying discrepancies | Corrected records, issue log, reconciliation result |
-| Answering recurring questions | Providing support and making knowledge reusable | Resolved cases, guide, adoption or feedback |
-| Handling exceptions and urgent requests | Diagnosing issues and coordinating recovery | Incident record, restored service, unresolved items |
-| Repeated manual administration | Reliable recurring delivery; possibly process improvement | Delivery records, actual method change, comparable before/after data |
-
-Do not automatically translate routine execution into strategy, innovation, governance, or leadership. Replace vague praise with the object, difficulty, and contribution the evaluator can understand.
+Reuse existing notes and purpose. Ask only for missing assessment period, actual criteria, or required format that materially changes the draft. Without criteria, use explicitly provisional contribution themes; do not invent company KPIs. Give a usable draft before listing important gaps.
 
 ## Map to actual KPI criteria
 

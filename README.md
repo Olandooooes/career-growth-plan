@@ -55,13 +55,13 @@ For example, “chased three departments for reports, consolidated 12 editions, 
 - **KPI accomplishment lab:** “I do a lot of small tasks but cannot explain my contribution.” Group scattered work, map it to review criteria, and get copy-ready self-assessment wording with evidence gaps listed separately.
 - **Conversation practice:** “Play my manager. I want to ask for project ownership.” Practice one turn at a time, pause for help, and finish with one improvement and a fallback.
 
-You can also jump straight to “My review is tomorrow; help me draft it.” Serious mode skips playful titles.
+You can also jump straight to “My review is tomorrow; help me draft it.” Character discovery and playful titles are optional experiences.
 
 **Growth comes from recognizable changes:** handling a disagreement more independently, noticing a warning earlier, or reusing a method. No invented progress, arbitrary XP, streak penalties, or pressure to keep logging.
 
 ## Explore before installing
 
-- [English walkthrough](examples/first-session.en.md): discovery, character card, direction, and returning to chat.
+- [English walkthrough](examples/first-session.en.md): work notes, KPI self-review, corrections, shorter drafts, and continuity.
 - [完整中文体验](examples/first-session.zh-CN.md): the same capabilities in Chinese.
 - [Workplace field guides](guides/README.md): three readable guides; no installation needed.
 - [Bilingual tryout](examples/tryout.md): experience and feedback checklist.
@@ -127,7 +127,7 @@ For continuity without persistent memory, ask for a handoff card: background you
 ## Project files
 
 - [SKILL.md](SKILL.md): shared behavior and language policy.
-- [Companion experience](references/companion-experience.md): discovery, characters, daily modes, and growth.
+- [Companion experience](references/companion-experience.md): optional character discovery, daily modes, and growth.
 - [Work lab](references/work-lab.md): work translation and turn-by-turn rehearsal.
 - [KPI accomplishment lab](references/kpi-accomplishments.md): contribution grouping, KPI mapping, formal wording, and evidence gaps.
 - [Goals and outputs](references/goals-and-outputs.md): reviews, promotion, interviews, and growth actions.

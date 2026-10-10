@@ -2,52 +2,23 @@
 
 **English** | [简体中文](README.zh-CN.md)
 
-### Discover what your everyday work is turning you into.
+### Great at the work, stuck explaining it? Turn everyday tasks into clear KPI accomplishments.
 
-Explore a few playful questions, discover your career character, understand what work gives and costs you, and choose your next direction. Come back to vent, celebrate, solve a problem, reflect, or prepare for a review or job change.
+You chase updates, check data, handle exceptions, and help colleagues all month—then your review says only “completed routine work.” This skill helps you explain the problems you handled, the responsibility you took, and the work you delivered.
+
+**Core feature: KPI accomplishment writing.** Paste rough work notes and your assessment criteria to get a contribution-to-KPI table, copy-ready self-review drafts, and a separate evidence checklist. Built for capable people who do strong work but struggle to make their contribution visible in performance reviews.
 
 **Chinese name: 职场大神养成计划** · `career-growth-plan` · [MIT](LICENSE)
 
-> **Career character: Cross-team ambiguity wrangler**
+> **Raw notes:** “Chased Sales and Support for data each week, produced four reports, asked Support to correct inconsistent refund figures, and removed two duplicate orders.”
 >
-> **Official role:** Operations. **Everyday work:** Connecting different teams' understanding.
->
-> **Emerging strength:** You turned a requirements disagreement into specific decisions people could confirm.
->
-> **Current tension:** Ad hoc coordination takes up time, while you want ownership of a complete piece of work.
->
-> **Possible next step:** Discuss a small, bounded project and what existing work it would replace.
+> **Review wording:** “Coordinated data collection and reconciliation with Sales and Support, delivered four weekly reports this month, identified and coordinated correction of inconsistent refund figures, and removed two duplicate orders.”
 
-*Fictional character card: a playful lens, not a psychological assessment or job title. Its observations need checking against your experience.*
+*Fictional example. Delivery counts do not establish timeliness or efficiency gains; actual drafts follow the available facts.*
 
 **[See the complete KPI example (Chinese): scattered tasks → four self-assessment entries →](examples/kpi-self-review.zh-CN.md)**
 
-See the raw notes, KPI mapping, final wording, and evidence checklist together. The example includes a copyable trial prompt.
-
-## Try it before installing
-
-**[Copy a prompt and start a conversation →](examples/start-here.en.md)**
-
-Discover your career character, translate your work into plain / playful / professional language, or rehearse a difficult conversation. Paste a prompt into your usual AI chat. This is a lightweight trial; the full skill also supports reflection, career materials, and local records.
-
-## Where would you like to start?
-
-| Entry | Try saying | Experience |
-| --- | --- | --- |
-| KPI self-assessment | “Turn these scattered tasks into my KPI self-review.” | Raw notes → contribution groups → KPI mapping → self-review and evidence gaps |
-| Discover yourself | “Start my career adventure. What's my career character?” | Light quiz → editable character card → work interpretation → your choice of direction |
-| Talk about today | “I need to vent. Please don't give me a plan yet.” | Listening, celebration, problem-solving, or reflection; no compulsory logging |
-| Choose a next step | “I want project ownership, but I'm always firefighting.” | A realistic experiment, followed by reflection when you return |
-
-**Three tools for a specific moment:**
-
-- **Work translator:** “I just chase people for updates. Help me explain what I do.” Playful metaphors can be extravagant; professional statements stay factual.
-- **KPI accomplishment lab:** “I do a lot of small tasks but cannot explain my contribution.” Group scattered work, map it to review criteria, and get copy-ready self-assessment wording with evidence gaps listed separately.
-- **Conversation practice:** “Play my manager. I want to ask for project ownership.” Practice one turn at a time, pause for help, and finish with one improvement and a fallback.
-
-You can also jump straight to “My review is tomorrow; help me draft it.” Serious mode skips playful titles.
-
-**Growth comes from recognizable changes:** handling a disagreement more independently, noticing a warning earlier, or reusing a method. No invented progress, arbitrary XP, streak penalties, or pressure to keep logging.
+Raw notes → contribution groups → KPI mapping → full self-review → evidence checklist. The case includes a copyable trial prompt.
 
 ## Do strong work, and make it visible
 
@@ -68,6 +39,25 @@ For example, “chased three departments for reports, consolidated 12 editions, 
 > Coordinated weekly report collection across three departments and consolidated 12 reports this quarter; identified and coordinated correction of five reporting-definition discrepancies, then distributed a definitions note to support consistency.
 
 *Figures are fictional examples; actual drafts use only supplied facts.* Strong framing makes the problem, action, and contribution explicit. It preserves actual responsibility, avoids invented improvement percentages, and uses concrete deliverables when outcome metrics are unavailable. Missed targets remain visible with gaps and next steps.
+
+## More ways to support your work
+
+| Entry | Try saying | Experience |
+| --- | --- | --- |
+| KPI self-assessment | “Turn these scattered tasks into my KPI self-review.” | Raw notes → contribution groups → KPI mapping → self-review and evidence gaps |
+| Discover yourself | “Start my career adventure. What's my career character?” | Light quiz → editable character card → work interpretation → your choice of direction |
+| Talk about today | “I need to vent. Please don't give me a plan yet.” | Listening, celebration, problem-solving, or reflection; no compulsory logging |
+| Choose a next step | “I want project ownership, but I'm always firefighting.” | A realistic experiment, followed by reflection when you return |
+
+**Tools for explaining your work:**
+
+- **Work translator:** “I just chase people for updates. Help me explain what I do.” Playful metaphors can be extravagant; professional statements stay factual.
+- **KPI accomplishment lab:** “I do a lot of small tasks but cannot explain my contribution.” Group scattered work, map it to review criteria, and get copy-ready self-assessment wording with evidence gaps listed separately.
+- **Conversation practice:** “Play my manager. I want to ask for project ownership.” Practice one turn at a time, pause for help, and finish with one improvement and a fallback.
+
+You can also jump straight to “My review is tomorrow; help me draft it.” Serious mode skips playful titles.
+
+**Growth comes from recognizable changes:** handling a disagreement more independently, noticing a warning earlier, or reusing a method. No invented progress, arbitrary XP, streak penalties, or pressure to keep logging.
 
 ## Explore before installing
 
@@ -94,8 +84,8 @@ https://github.com/Olandooooes/career-growth-plan
 Then ask:
 
 ```text
-Use $career-growth-plan. Start with a few fun questions
-and help me discover my career character.
+Use $career-growth-plan to turn my daily work into a KPI self-review.
+Here are my assessment criteria and work notes: …
 ```
 
 For manual installation on macOS/Linux with Git, clone into the user skills directory documented by Codex:

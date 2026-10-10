@@ -18,6 +18,8 @@ You chase updates, check data, handle exceptions, and help colleagues—then des
 
 **[See the first-use walkthrough →](examples/first-session.en.md)** · **[Full KPI self-review case (Chinese) →](examples/kpi-self-review.zh-CN.md)**
 
+[Full Chinese case: daily notes → accomplishments → weekly update → concise KPI self-review](examples/everyday-work-to-materials.zh-CN.md), with an optional detailed assessment mapping.
+
 ## Start with a few tasks
 
 In a host with the skill loaded, say:

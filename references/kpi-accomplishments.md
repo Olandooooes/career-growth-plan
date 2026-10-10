@@ -16,11 +16,11 @@ Quantify only from supplied facts: counts, coverage, delivery dates, resolution 
 
 ## Return usable material
 
-For a batch or KPI request, normally provide:
+Honor the user's requested length and format before choosing the output structure. A batch of notes or a KPI request does not automatically require a table.
 
-1. A compact mapping table: contribution theme → source tasks/personal role → actual KPI (or provisional theme) → supported result/evidence → gap. Adapt columns to the user's template.
-2. Copy-ready statements for the assessment form, prioritizing the best-supported contributions. Use **problem/objective → personal action → deliverable or verified result → relevance** when facts support it; omit unsupported clauses. For formal requests, skip playful versions.
-3. A short evidence-to-add list, outside the submission text, focused on the few gaps that would change the claim. Do not embed invented numbers or “[XX%]” in copy-ready prose.
+- For “简短”, “只写一段”, or a single assessment cell, first give copy-ready prose, followed by only the necessary evidence gaps outside the submission text. Omit mapping tables, repeated explanations, and expanded versions unless requested. Do not delay the draft to collect every missing detail.
+- For complex assessments with multiple criteria, targets, weights, mixed attainment, or a template requiring comparison, use a compact mapping table when it makes the assessment easier to review. Include contribution/personal role, actual criterion (or explicitly provisional theme), supported result, and material gap. Still prioritize usable assessment wording and respect any explicit request for a short response.
+- Keep evidence-to-add lists focused on gaps that would change the claim. Do not embed invented numbers or “[XX%]” in copy-ready prose.
 
 Show a before/after example when it helps the user learn the framing. Explain the improvement briefly: making the handled issue, personal contribution, or deliverable explicit. Avoid jargon such as “赋能业务闭环” that conceals the work. A concise assessment-cell version is usually enough; add an expanded review paragraph or spoken version only when useful or requested.
 

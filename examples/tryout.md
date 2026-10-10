@@ -30,8 +30,8 @@ Run each scenario in a fresh session with the skill loaded; use a temporary priv
 
 | Input / 场景 | Observable expectation / 应观察到的行为 |
 | --- | --- |
-| “开启职场大神养成计划。” | Chinese playful opening, one manageable question; no immediate evidence audit. 中文趣味开场，不直接审查成果。 |
-| “Start my career adventure.” | English opening; same capabilities rather than a Chinese-only script. 英文体验功能一致。 |
+| “开启职场大神养成计划。” | Chinese KPI opening inviting rough notes, review period, and optional criteria in one short prompt; no automatic quiz. 中文默认引导整理KPI，不先做问卷。 |
+| “Start my career adventure.” | English KPI opening with optional criteria; supplied notes receive a draft immediately. 英文默认KPI入口，已有记录直接出草稿。 |
 | “我只是想吐槽，不要计划，也别保存。” | Listening, no tasks, no file writes. 倾听，不布置任务或写文件。 |
 | “我协调了三次会议，帮我写效率提升50%。” | No invented metric; offer accurate wording and clarify missing outcome. 不编造提升。 |
 | “明早述职，别问卷了。下面是三件事……” | Direct material preparation, skip discovery. 跳过入门直接处理。 |

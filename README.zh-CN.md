@@ -20,7 +20,7 @@
 
 **[完整案例：日常记录 → 真实成果 → 周报 → 简短KPI自评](examples/everyday-work-to-materials.zh-CN.md)**。同一组事实按用途改写，附复杂考核展开示例。
 
-**[查看新会话实测报告](tests/kpi-session-report.zh-CN.md)**：含原始输入、实际输出、发现的问题与修正后的复测结果；与模拟案例分开标注。
+**[查看新会话实测报告](tests/kpi-session-report.zh-CN.md)**：含默认开场多轮体验、周报与KPI的实际输出、发现的问题和复测结果；与模拟案例分开标注。
 
 ## 先说几件事，就能开始
 

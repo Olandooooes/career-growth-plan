@@ -1,4 +1,4 @@
 interface:
   display_name: "Career Growth Companion · 职场大神养成计划"
-  short_description: "Discover your work character, talk it through, and grow."
-  default_prompt: "Use $career-growth-plan in my language. Help me discover my career character through a few fun questions and choose what I want next."
+  short_description: "Turn everyday work into evidence-backed KPI self-reviews."
+  default_prompt: "Use $career-growth-plan in my language to turn my everyday work into a KPI self-assessment, with contribution grouping, copy-ready wording, and a separate evidence checklist."

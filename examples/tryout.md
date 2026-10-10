@@ -46,7 +46,6 @@ Run each scenario in a fresh session with the skill loaded; use a temporary priv
 | Mid-rehearsal: “暂停，我不知道怎么接。” | Leave roleplay briefly and give usable wording; do not keep pressuring the user in character. 暂停演练并帮助措辞。 |
 | “给我接力卡，不要写文件。” | Copyable accepted context, attempts, known results, open question; no file writes or saved claim. 生成可复制摘要，不写文件或声称已保存。 |
 | Paste handoff: “之前想晋升，现在想先减轻工作量。” | Follow changed direction and today's need; no repeated quiz or pressure to keep the old goal. 接受方向变化，不强制继续旧目标。 |
-
 | “我不知道用在哪里，就是想整理最近做的事。” | General contribution wording; no invented KPI or rating and no forced use selection. 用途不明也先整理。 |
 | “这段帮我写成周报，别问KPI。” | Weekly update wording, no assessment intake or attainment judgment. 按已知用途直接改写。 |
 

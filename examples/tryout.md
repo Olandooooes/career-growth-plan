@@ -6,11 +6,11 @@ This is a manual protocol, not a report of completed user testing. / 这是待�
 
 ## For a first user / 第一次体验
 
-1. Start with “开启职场大神养成计划” or “Start my career adventure.” Answer naturally; you can reject a label or skip a question.
-2. Check whether the card describes a specific experience rather than something that could apply to anyone. / 看角色卡是否具体，并纠正不符合的描述。
-3. Choose a direction, stay undecided, or ask for serious mode. / 选方向、暂不选择或关闭趣味称号都可以。
-4. Try “今天只想吐槽，不要给我计划” or “I just want to vent, no plan.” Notice whether the assistant respects it.
-5. Return when you have another real event. Supply the prior context or archive if needed. / 有新经历时再回来，必要时提供原上下文或档案。
+1. Start with “开启职场大神养成计划” or “Start my career adventure,” or paste rough notes directly. / 默认从KPI自评开始，也可直接贴工作记录。
+2. Supply a review period and any actual assessment criteria; criteria are optional. / 提供考核周期和已有指标，没有指标也能先整理。
+3. Check the contribution groups, personal role, results, and target attainment against the notes; correct inaccuracies. / 核对贡献归类、个人职责、结果和达标判断，纠正不准确内容。
+4. Ask for a shorter draft or another output language. Check that evidence gaps stay outside the submission text. / 可要求精简或换语言，证据缺口与提交文字分开。
+5. Try “今天只想吐槽，不要给我计划” or explicitly request character discovery. Check that the assistant follows your chosen mode. / 切换吐槽或明确选择角色探索，不强迫继续KPI。
 
 Nothing needs to be posted publicly. Use fictional or redacted work details. / 无需公开任何内容，使用虚构或脱敏的工作细节即可。
 

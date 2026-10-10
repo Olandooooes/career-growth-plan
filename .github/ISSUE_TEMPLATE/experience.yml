@@ -12,6 +12,7 @@ body:
     attributes:
       label: What did you try? / 体验了什么？
       options:
+        - Everyday work accomplishments / 日常工作整理成真实成果
         - KPI self-assessment / KPI成果包装与考核自评
         - Character discovery / 角色探索
         - Work translator / 工作翻译器

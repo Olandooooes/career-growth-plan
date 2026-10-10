@@ -18,6 +18,8 @@
 
 **[看看新用户如何从几件杂事开始 →](examples/first-session.zh-CN.md)** · **[KPI自评场景完整案例 →](examples/kpi-self-review.zh-CN.md)**
 
+**[完整案例：日常记录 → 真实成果 → 周报 → 简短KPI自评](examples/everyday-work-to-materials.zh-CN.md)**。同一组事实按用途改写，附复杂考核展开示例。
+
 ## 先说几件事，就能开始
 
 在加载 Skill 的工具中说：

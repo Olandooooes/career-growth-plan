@@ -2,48 +2,51 @@
 
 **English** | [简体中文](README.zh-CN.md)
 
-### Great at the work, stuck explaining it? Turn everyday tasks into clear KPI accomplishments.
+### Great at your work, unsure how to explain its value? Turn everyday work into truthful accomplishments.
 
-You chase updates, check data, handle exceptions, and help colleagues all month—then your review says only “completed routine work.” This skill helps you explain the problems you handled, the responsibility you took, and the work you delivered.
+You chase updates, check data, handle exceptions, and help colleagues—then describe it all as “routine tasks.” Built for capable people who struggle to explain their contribution, this skill helps identify what you personally handled, the problems you addressed, and what you delivered.
 
-**Core feature: KPI accomplishment writing.** Paste rough work notes and your assessment criteria to get a contribution-to-KPI table, copy-ready self-review drafts, and a separate evidence checklist. Built for capable people who do strong work but struggle to make their contribution visible in performance reviews.
+**Core workflow: daily work notes → personal contributions → truthful accomplishment wording → your chosen material.** Use it for weekly updates, work summaries, reviews, promotion, resumes, interviews, or KPI self-assessments. Assessment criteria are not required to begin.
 
 **Chinese name: 职场大神养成计划** · `career-growth-plan` · [MIT](LICENSE)
 
-> **Raw notes:** “Chased Sales and Support for data each week, produced four reports, asked Support to correct inconsistent refund figures, and removed two duplicate orders.”
+> **Raw notes:** “Chased expense paperwork; four of 18 submissions lacked attachments, so I followed up and handed the completed materials to Finance.”
 >
-> **Review wording:** “Coordinated data collection and reconciliation with Sales and Support, delivered four weekly reports this month, identified and coordinated correction of inconsistent refund figures, and removed two duplicate orders.”
+> **Accomplishment:** “Organized 18 expense submissions, identified and followed up on missing attachments in four, and handed the completed materials to Finance.”
 
-*Fictional example. Delivery counts do not establish timeliness or efficiency gains; actual drafts follow the available facts.*
+*Fictional example. Handover does not establish payment completion or improved processing speed.*
 
-**[See the complete KPI example (Chinese): scattered tasks → four self-assessment entries →](examples/kpi-self-review.zh-CN.md)**
+**[See the first-use walkthrough →](examples/first-session.en.md)** · **[Full KPI self-review case (Chinese) →](examples/kpi-self-review.zh-CN.md)**
 
-Raw notes → contribution groups → KPI mapping → full self-review → evidence checklist. The case includes a copyable trial prompt.
+## Start with a few tasks
 
-## Do strong work, and make it visible
-
-Built for people who contribute a great deal but struggle to express it during assessments. Paste rough task lists, weekly updates, or work notes; no character quiz is required.
+In a host with the skill loaded, say:
 
 ```text
-Use $career-growth-plan to prepare my quarterly KPI self-assessment.
-Group my scattered work into contributions, map it to my actual KPIs,
-and draft wording I can submit. List missing evidence separately.
-My assessment criteria: …
-My work notes: …
+Use $career-growth-plan to organize my everyday work into truthful accomplishments.
+Here are a few things I did: …
 ```
 
-Get a **contribution-to-KPI table, copy-ready accomplishment statements, and a short evidence checklist**. Without company criteria, the skill uses explicitly provisional contribution themes.
+No KPI form, complete profile, or polished notes needed. Get useful wording first, then adapt it to who will read it and what it is for. If the purpose is known, ask directly for a weekly update, resume bullet, or KPI self-review.
 
-For example, “chased three departments for reports, consolidated 12 editions, coordinated corrections to five definition discrepancies, and shared a definitions note” becomes:
+**[Try a standalone prompt before installing →](examples/start-here.en.md)**
 
-> Coordinated weekly report collection across three departments and consolidated 12 reports this quarter; identified and coordinated correction of five reporting-definition discrepancies, then distributed a definitions note to support consistency.
+## Where can the material be used?
 
-*Figures are fictional examples; actual drafts use only supplied facts.* Strong framing makes the problem, action, and contribution explicit. It preserves actual responsibility, avoids invented improvement percentages, and uses concrete deliverables when outcome metrics are unavailable. Missed targets remain visible with gaps and next steps.
+| Use | Adaptation |
+| --- | --- |
+| Weekly update or work summary | Group by workstream; show deliverables, open issues, and next steps |
+| Review or promotion | Select contributions and evidence against actual responsibilities and expectations |
+| Resume or interview | Select relevant real experiences while preserving personal responsibility |
+| KPI self-assessment | Map to company criteria, distinguish actuals from targets, and preserve missed targets |
+
+Without numbers, use concrete deliverables and handled problems. With unconfirmed outcomes, describe known actions without inventing impact. Important evidence gaps stay separate for you to check before formal use.
 
 ## More ways to support your work
 
 | Entry | Try saying | Experience |
 | --- | --- | --- |
+| Organize work | “Turn my daily work into truthful accomplishments.” | Notes → personal contribution → accomplishment wording → chosen use |
 | KPI self-assessment | “Turn these scattered tasks into my KPI self-review.” | Raw notes → contribution groups → KPI mapping → self-review and evidence gaps |
 | Discover yourself | “Start my career adventure. What's my career character?” | Light quiz → editable character card → work interpretation → your choice of direction |
 | Talk about today | “I need to vent. Please don't give me a plan yet.” | Listening, celebration, problem-solving, or reflection; no compulsory logging |
@@ -61,7 +64,7 @@ You can also jump straight to “My review is tomorrow; help me draft it.” Cha
 
 ## Explore before installing
 
-- [English walkthrough](examples/first-session.en.md): work notes, KPI self-review, corrections, shorter drafts, and continuity.
+- [English walkthrough](examples/first-session.en.md): work notes, truthful accomplishments, corrections, and adapting to a chosen use.
 - [完整中文体验](examples/first-session.zh-CN.md): the same capabilities in Chinese.
 - [Workplace field guides](guides/README.md): three readable guides; no installation needed.
 - [Bilingual tryout](examples/tryout.md): experience and feedback checklist.
@@ -84,8 +87,8 @@ https://github.com/Olandooooes/career-growth-plan
 Then ask:
 
 ```text
-Use $career-growth-plan to turn my daily work into a KPI self-review.
-Here are my assessment criteria and work notes: …
+Use $career-growth-plan to organize my everyday work into truthful accomplishments.
+Here are a few things I did: …
 ```
 
 For manual installation on macOS/Linux with Git, clone into the user skills directory documented by Codex:
@@ -129,7 +132,8 @@ For continuity without persistent memory, ask for a handoff card: background you
 - [SKILL.md](SKILL.md): shared behavior and language policy.
 - [Companion experience](references/companion-experience.md): optional character discovery, daily modes, and growth.
 - [Work lab](references/work-lab.md): work translation and turn-by-turn rehearsal.
-- [KPI accomplishment lab](references/kpi-accomplishments.md): contribution grouping, KPI mapping, formal wording, and evidence gaps.
+- [Work accomplishments](references/work-accomplishments.md): recover truthful contributions and adapt to the chosen use.
+- [KPI self-assessment scenario](references/kpi-accomplishments.md): contribution grouping, KPI mapping, formal wording, and evidence gaps.
 - [Goals and outputs](references/goals-and-outputs.md): reviews, promotion, interviews, and growth actions.
 - [Local records](references/local-records.md): archive locations, evidence, and incremental updates.
 - [UI metadata](agents/openai.yaml): display name and suggested starting prompt.

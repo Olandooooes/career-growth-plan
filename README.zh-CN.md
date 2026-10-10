@@ -55,13 +55,13 @@
 - **KPI 成果包装：**“我做了很多杂事，但不知道考核怎么写。”把零散工作按贡献归类，对应考核指标，生成可以直接放进自评表的表达，并单列需要补的证据。
 - **职场对话陪练：**“你演我的领导，我想练习怎么争取一个项目。”一次聊一轮，可以暂停求助，最后得到一个改进点和被拒绝时的退路。
 
-也支持直接说“明天就要述职，帮我整理材料”，跳过问卷。认真模式下可以关闭趣味称号。
+也支持直接说“明天就要述职，帮我整理材料”，直接整理材料。角色探索和趣味称号仅在你选择相关体验时使用。
 
 **养成感来自真实变化：**从需要别人带着处理，到自己识别分歧、组织确认；从反复救火，到建立可复用的方法。没有依据时不编造成长，不靠签到、虚构分数或断更惩罚制造压力。
 
 ## 先看再决定要不要安装
 
-- [完整中文体验](examples/first-session.zh-CN.md)：从趣味开场，到角色卡、选择方向和第二次回来聊天。
+- [完整中文体验](examples/first-session.zh-CN.md)：从工作记录到KPI自评，再到纠正、精简和下次继续。
 - [English walkthrough](examples/first-session.en.md)：同一套能力的英文示例。
 - [职场困境小册子](guides/README.zh-CN.md)：三篇可以直接阅读的实践指南，不用安装。
 - [双语试用流程](examples/tryout.md)：体验和反馈清单，欢迎报告不顺畅的地方。
@@ -127,7 +127,7 @@ git clone https://github.com/Olandooooes/career-growth-plan.git \
 ## 文件说明
 
 - [SKILL.md](SKILL.md)：唯一的核心行为规则及语言策略。
-- [陪伴体验规则](references/companion-experience.md)：趣味入门、角色卡、日常模式和成长感。
+- [陪伴体验规则](references/companion-experience.md)：用户主动选择的角色探索、日常模式和成长感。
 - [工作翻译与对话陪练](references/work-lab.md)：有趣表达、正式表达和逐轮练习。
 - [KPI 成果包装规则](references/kpi-accomplishments.md)：琐碎工作归类、指标对应、成果表达与证据补充。
 - [目标与材料规则](references/goals-and-outputs.md)：述职、晋升、面试和成长行动。

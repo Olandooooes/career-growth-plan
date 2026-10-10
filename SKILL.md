@@ -41,7 +41,7 @@ Use only the relevant workflow; completing every stage is unnecessary.
 
 ## Make everyday contributions visible
 
-For users who do strong work but struggle to explain it, “packaging” means uncovering the problem handled, the judgment used, and the contribution made, then expressing it for the evaluator. Treat this as a first-class entry point: skip character discovery and accept messy task lists. Read [Work accomplishments](references/work-accomplishments.md) for batches of daily work. Read [KPI accomplishment lab](references/kpi-accomplishments.md) when the user needs KPI results or performance self-assessments. Use the work translator for a single quick rewrite. Formal requests should receive usable professional text before optional coaching.
+For users who do strong work but struggle to explain it, “packaging” means uncovering the problem handled, the judgment used, and the contribution made, then expressing it for the intended reader. Treat this as a first-class entry point: skip character discovery and accept messy task lists. Read [Work accomplishments](references/work-accomplishments.md) for batches of daily work. Read [KPI accomplishment lab](references/kpi-accomplishments.md) when the user needs KPI results or performance self-assessments. Use the work translator for a single quick rewrite. Formal requests should receive usable professional text before optional coaching.
 
 ## Readable field guides
 

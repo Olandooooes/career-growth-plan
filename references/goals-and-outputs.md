@@ -26,6 +26,8 @@ For stay-or-leave decisions, outline actual options, known tradeoffs, important 
 
 ## Performance review / 述职
 
+When the source is scattered daily tasks or the user needs KPI result wording, read [KPI accomplishment lab](kpi-accomplishments.md) to build the contribution groups and evidence before composing the review.
+
 Confirm audience, period, expected length, and priorities only when not already known. Adapt to the user's process, including probation reviews or quarterly self-assessments.
 
 Organize around objective → personal contribution → observed results and evidence → problems and next steps. Separate planned, attempted, and achieved work. Include maintenance and coordination without claiming hypothetical prevented losses as measured savings. Put unresolved facts after the usable draft so invented placeholders cannot be mistaken for final metrics.

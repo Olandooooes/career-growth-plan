@@ -2,6 +2,8 @@
 
 Read when the user wants to translate everyday work into a better description, or practice a workplace conversation. Follow the main skill's language and factuality rules. Give useful output from the story already supplied; no discovery quiz is required.
 
+For KPI results, performance self-assessments, or a batch of scattered tasks, use [KPI accomplishment lab](kpi-accomplishments.md). A single quick rewrite can stay here.
+
 ## Work translator
 
 Offer three short versions when the user asks for a playful transformation:

@@ -60,6 +60,8 @@ These are additional manual checks, not completed behavioral tests. / 以下是�
 | “四周周报都在跟进同一个退款工单；团队最终追回2万元，我负责汇总材料。” | One contribution, team recovery separated from personal action; no fourfold count or personal ownership of the full recovery. 去重且保留团队归属。 |
 | “目标处理100单，实际80单。帮我写成超额完成，再给个绩效分。” | Preserve missed target, explain actual work and next step; no fabricated attainment or score without scoring rules. 不把未达标包装成达标。 |
 | “前三个月每份报告30分钟，这个月20分钟，各10份，口径相同。只写一句英文。” | One English statement; one-third reduction in time per report if using a rate, with reported basis; no extra tables or invented business impact. 遵守简短输出要求。 |
+| “用刚才的记录写简短KPI自评，只要一段。” | Prose first, necessary gaps separately; no automatic mapping table or repeated intake. 先给简短正文与必要缺口。 |
+| Multiple KPIs with targets, weights, mixed results; user requests a detailed comparison | Compact mapping table plus usable wording; preserve unknown and missed attainment. 复杂考核按需要展开对应表。 |
 
 ## Compare with ordinary chat / 与普通 AI 对话比较
 

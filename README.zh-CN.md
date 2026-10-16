@@ -137,7 +137,7 @@ git clone https://github.com/Olandooooes/career-growth-plan.git \
 
 ```sh
 mkdir -p "$HOME/.claude/skills"
-git clone https://github.com/Olandooooes/career-growth-plan.git \
+git clone --depth 1 https://github.com/Olandooooes/career-growth-plan.git \
   "$HOME/.claude/skills/career-growth-plan"
 ```
 
@@ -145,7 +145,7 @@ Windows PowerShell：
 
 ```powershell
 New-Item -ItemType Directory -Force "$HOME/.claude/skills" | Out-Null
-git clone https://github.com/Olandooooes/career-growth-plan.git "$HOME/.claude/skills/career-growth-plan"
+git clone --depth 1 https://github.com/Olandooooes/career-growth-plan.git "$HOME/.claude/skills/career-growth-plan"
 ```
 
 也可下载仓库ZIP并解压，将完整文件夹命名为 `career-growth-plan`，放入个人目录 `~/.claude/skills/`；仅供当前项目使用则放入该项目的 `.claude/skills/`。确认 `career-growth-plan/SKILL.md` 存在且辅助目录完整。在Claude Code新会话输入 `/career-growth-plan`，再贴工作记录；不要照搬Codex的 `$` 调用语法。已有安装请更新原目录，不重复克隆。
@@ -189,6 +189,15 @@ git clone https://github.com/Olandooooes/career-growth-plan.git "$HOME/.claude/s
 3. 再说“写成简短周报”“写一段KPI自评”，或“整理成六部分述职，计划先让我确认”。如试玩代码块未包含所需述职细则，可补充个人成长需要前后证据、改进效果不能推断、计划确认前不进正文。
 
 **复制提示词是当前对话体验，不等于安装完整Skill**：不会自动加载仓库参考文件，也不保证记忆、文件保存或与原生加载相同的表现。换新对话时重新粘贴。各平台可先用相同的虚构工作记录试一轮，再核对草稿。
+
+### 安装后怎么确认？以后怎么更新？
+
+- **核对文件：**安装目录应直接包含 `SKILL.md`，以及 `references/`、`guides/`、`examples/`、`agents/` 等随仓库提供的辅助文件。不要把 `career-growth-plan-main/` 又套在同名技能目录内，也不要只下载一个 `SKILL.md`。
+- **核对调用：**Codex用 `$career-growth-plan`；Claude Code用 `/career-growth-plan`；千问办公和WorkBuddy优先从已安装列表选择，或指名使用，不假设它们都识别 `$`。如果没出现，先检查目录层级、启用状态和客户端权限，再新开会话或重新加载。
+- **做一轮小验证：**给几条虚构工作记录，确认先得到真实贡献；再要求“简短KPI自评”，检查不编造达标率、不给未经确认的计划。能回答不等于已经证明按完整Skill加载，可同时检查客户端显示的技能状态。
+- **更新原安装位置：**Git克隆方式在终端对原目录执行 `git -C "实际安装目录/career-growth-plan" pull --ff-only`；若有本地修改或拉取失败，先处理提示，不删除重装。文件夹／ZIP导入方式重新下载仓库，按客户端的同名技能更新流程导入，避免并存多份。提示词体验则重新复制最新代码块。
+
+安装说明参考了[HowToLiveBetter的life-decision-guide说明](https://github.com/eternity4719/HowToLiveBetter/blob/main/skills/life-decision-guide/README.md)中“按宿主区分目录与调用方式、共用一套规则”的做法；本项目有按需读取的辅助文件，因此采用完整目录安装，不能照搬仅下载单个入口文件的方法。平台步骤仍以各自官方文档为准。
 
 ### 其他支持 Skill 的工具
 

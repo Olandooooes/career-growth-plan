@@ -75,6 +75,14 @@ Related executed checks are recorded in [tests H–I](../tests/kpi-session-repor
 | Before/after independence evidence plus a changed workflow; company requires three headings | Follow company format; distinguish personal growth from method improvement; no forced percentages. 公司模板优先，比例不作评分。 |
 | “下一步只确认试用清单，不承诺效率提升。” | Only accepted plan in final prose; no promised gain or invented resources. 只纳入已确认计划。 |
 
+## Concise-first and correction checks / 简短首稿与纠正一致性
+
+An executed software-testing scenario is recorded in [test J](../tests/kpi-session-report.zh-CN.md); use different fictional notes for a fresh evaluation. / 已执行记录见测试J，独立验证请更换素材。
+
+- Provide several rough tasks without specifying a format: expect a short draft before explanation and a few supported highlights, not a long default table. / 先给短成果，再按事实选重点。
+- Correct authorship, planned versus completed counts, and a supposedly closed issue: check later weekly and KPI drafts use the correction and reconsider highlights. / 纠正归属、计划数量和状态后，连续换用途不能恢复旧说法。
+- Request prose under a numeric character limit with gaps separately: count the actual draft and inspect unsupported claims. / 实际计数，不只观察“看起来简短”。
+
 ## Compare with ordinary chat / 与普通 AI 对话比较
 
 Use the same host/model and the same redacted work story in separate fresh conversations. In one, load the skill; in the other, simply ask for career advice or help expressing the work. Alternate which version users see first, hide the labels when practical, and let them choose “no difference.” Do not use skill-authored examples as the test inputs.

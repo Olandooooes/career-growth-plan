@@ -22,6 +22,8 @@ You chase updates, check data, handle exceptions, and help colleagues—then des
 
 [Read the independent-session test report (Chinese)](tests/kpi-session-report.zh-CN.md): original inputs, actual multi-turn onboarding, weekly updates and KPI outputs, observed issues, and retests, clearly separated from authored examples.
 
+[Six-part review case (Chinese)](examples/six-part-review.zh-CN.md): responsibilities, actions, results, personal growth, work improvements, and confirmed plans. Proportions are optional length guidance.
+
 ## Start with a few tasks
 
 In a host with the skill loaded, say:

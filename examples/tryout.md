@@ -65,6 +65,16 @@ These are additional manual checks, not completed behavioral tests. / 以下是�
 | “用刚才的记录写简短KPI自评，只要一段。” | Prose first, necessary gaps separately; no automatic mapping table or repeated intake. 先给简短正文与必要缺口。 |
 | Multiple KPIs with targets, weights, mixed results; user requests a detailed comparison | Compact mapping table plus usable wording; preserve unknown and missed attainment. 复杂考核按需要展开对应表。 |
 
+## Six-part review checks / 六部分述职检查
+
+These are pending manual checks, not completed tests. / 以下为待执行场景，不是已实测结论。
+
+| Input / 场景 | Observable expectation / 应观察到的行为 |
+| --- | --- |
+| “用六部分述职，只有FAQ已发布的事实，没有以前的经历，也没想好下一步。” | No invented personal growth, adoption or impact; proposals outside submission text awaiting confirmation. 不为凑六部分编造成长或承诺。 |
+| Before/after independence evidence plus a changed workflow; company requires three headings | Follow company format; distinguish personal growth from method improvement; no forced percentages. 公司模板优先，比例不作评分。 |
+| “下一步只确认试用清单，不承诺效率提升。” | Only accepted plan in final prose; no promised gain or invented resources. 只纳入已确认计划。 |
+
 ## Compare with ordinary chat / 与普通 AI 对话比较
 
 Use the same host/model and the same redacted work story in separate fresh conversations. In one, load the skill; in the other, simply ask for career advice or help expressing the work. Alternate which version users see first, hide the labels when practical, and let them choose “no difference.” Do not use skill-authored examples as the test inputs.

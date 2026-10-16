@@ -119,6 +119,77 @@ git clone https://github.com/Olandooooes/career-growth-plan.git \
 
 **选择一种安装方式即可。**已有安装请更新原位置，不要重复安装。旧版或定制工具可能使用其他目录；当前发现位置以[官方 Skill 文档](https://learn.chatgpt.com/docs/build-skills)为准。如果未出现在列表中，可以重启工具。
 
+### 按平台选择安装或体验方式
+
+核验日期：**2026年10月16日**。下列原生安装步骤依据各平台公开文档整理，**本项目尚未在这些平台逐一完成安装与行为实测**；界面、版本和账号权限以实际显示为准。现有[实测报告](tests/kpi-session-report.zh-CN.md)来自Codex，不代表其他平台已通过。
+
+| 平台 | 建议方式 | 开始使用 |
+| --- | --- | --- |
+| Codex | 按上方安装器或目录方式安装 | `用 $career-growth-plan 帮我整理工作` |
+| Claude Code | 放入个人或项目的 `.claude/skills/` 目录 | `/career-growth-plan` |
+| 千问办公（QwenWork） | 在「扩展 → 技能」导入Skill及辅助文件 | 在 `/` 列表选择，或指名使用 |
+| WorkBuddy | 「技能 → 添加技能 → 上传技能」导入本地技能包 | 确认已启用，再指名使用 |
+| 豆包 | 复制独立试玩提示词到新对话 | 贴日常记录，再选择周报、KPI或述职 |
+
+### Claude Code
+
+已安装Claude Code和Git时，个人安装可在macOS/Linux终端运行：
+
+```sh
+mkdir -p "$HOME/.claude/skills"
+git clone https://github.com/Olandooooes/career-growth-plan.git \
+  "$HOME/.claude/skills/career-growth-plan"
+```
+
+Windows PowerShell：
+
+```powershell
+New-Item -ItemType Directory -Force "$HOME/.claude/skills" | Out-Null
+git clone https://github.com/Olandooooes/career-growth-plan.git "$HOME/.claude/skills/career-growth-plan"
+```
+
+也可下载仓库ZIP并解压，将完整文件夹命名为 `career-growth-plan`，放入个人目录 `~/.claude/skills/`；仅供当前项目使用则放入该项目的 `.claude/skills/`。确认 `career-growth-plan/SKILL.md` 存在且辅助目录完整。在Claude Code新会话输入 `/career-growth-plan`，再贴工作记录；不要照搬Codex的 `$` 调用语法。已有安装请更新原目录，不重复克隆。
+
+依据：[Claude Code官方Skills文档](https://code.claude.com/docs/en/skills)。
+
+### 千问办公（QwenWork）
+
+1. 在本仓库选择 **Code → Download ZIP** 并解压，确认解压目录内直接包含 `SKILL.md`、`references/`、`guides/` 等文件。
+2. 在千问办公的 **扩展 → 技能 → 安装技能／添加** 中，按界面选择Skill文件和辅助文件；若要求ZIP，将该目录内的内容压缩，确保ZIP打开就能看到 `SKILL.md`，不要只上传单个入口而漏掉参考文件。
+3. 安装后，在对话输入 `/` 选择 `career-growth-plan`，或直接说：
+
+```text
+使用 career-growth-plan 技能，帮我把以下日常工作整理成真实成果：……
+```
+
+这里指千问办公客户端，不将普通千问聊天、百炼和专家套件的入口混用。没有导入权限或无法识别时，可先用下方复制提示词方式体验。
+
+依据：[千问办公官方技能说明](https://help.aliyun.com/zh/qwenwork/skills)、[阿里云的千问办公与WorkBuddy接入示例](https://docs.rag.bailian.aliyun.com/cookbook/office-agent)。
+
+### WorkBuddy
+
+1. 下载并解压本仓库，保留根目录中的 `SKILL.md` 与辅助目录。
+2. 打开 **技能 → 添加技能 → 上传技能**，导入解压后的Skill文件夹；若界面要求ZIP，按上一节方法打包为根目录有 `SKILL.md` 的技能包。
+3. 在「已安装」确认 `career-growth-plan` 已启用，再新建任务说：
+
+```text
+使用 career-growth-plan 技能。开启职场大神养成计划，先帮我整理最近的工作。
+```
+
+本项目未确认已上架WorkBuddy或SkillHub市场，不能保证搜索名称就能找到；因此优先说明本地导入方式。具体菜单名称随客户端版本变化。
+
+依据：[WorkBuddy官方技能说明](https://www.workbuddy.cn/docs/workbuddy/From-Beginner-to-Expert-Guide/Function-Description/Skills-Market)、[阿里云接入示例](https://docs.rag.bailian.aliyun.com/cookbook/office-agent)。
+
+### 豆包，以及没有原生Skill入口的平台
+
+本项目暂未核实豆包可安装此仓库的原生Skill入口。可以在[豆包](https://www.doubao.com/)新建普通对话，体验工作整理方法：
+
+1. 打开[中文独立试玩提示词](examples/start-here.zh-CN.md)，复制「日常工作整理成真实成果」对应代码块，粘贴发送；不只发送GitHub链接。
+2. 贴几件日常工作，核对助手是否保留你的职责和未知结果。
+3. 再说“写成简短周报”“写一段KPI自评”，或“整理成六部分述职，计划先让我确认”。如试玩代码块未包含所需述职细则，可补充个人成长需要前后证据、改进效果不能推断、计划确认前不进正文。
+
+**复制提示词是当前对话体验，不等于安装完整Skill**：不会自动加载仓库参考文件，也不保证记忆、文件保存或与原生加载相同的表现。换新对话时重新粘贴。各平台可先用相同的虚构工作记录试一轮，再核对草稿。
+
 ### 其他支持 Skill 的工具
 
 按相应工具的安装方式加载，保留 `SKILL.md`、`references/` 和 `agents/` 的完整结构。尚未逐一验证所有工具的原生集成。只想体验一次，也可以让 AI 阅读本地项目中的 `SKILL.md` 和相关参考文件；这不等于完成安装，也不会自动产生永久记忆。

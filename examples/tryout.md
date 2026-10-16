@@ -67,7 +67,7 @@ These are additional manual checks, not completed behavioral tests. / 以下是�
 
 ## Six-part review checks / 六部分述职检查
 
-These are pending manual checks, not completed tests. / 以下为待执行场景，不是已实测结论。
+Related executed checks are recorded in [tests H–I](../tests/kpi-session-report.zh-CN.md); the company-template scenario below remains untested. / 相关场景的实际输入输出见报告H—I；下列公司模板优先场景仍未实测。
 
 | Input / 场景 | Observable expectation / 应观察到的行为 |
 | --- | --- |

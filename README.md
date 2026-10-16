@@ -118,6 +118,63 @@ git clone https://github.com/Olandooooes/career-growth-plan.git \
 
 Use **one installation method**. If a copy already exists, update that copy rather than installing a duplicate. Older or customized hosts may use a different skills directory. See the [official skill documentation](https://learn.chatgpt.com/docs/build-skills) for current discovery locations; restart the host if the skill does not appear.
 
+### Choose your platform
+
+Documentation checked **October 16, 2026**. These are documented setup paths, **not completed installation or behavior tests in each host**. Menus and access depend on the client version and account. The existing [test report](tests/kpi-session-report.zh-CN.md) was run in Codex.
+
+| Platform | Setup | Start |
+| --- | --- | --- |
+| Codex | Installer or skills directory above | `Use $career-growth-plan` |
+| Claude Code | Personal or project `.claude/skills/` directory | `/career-growth-plan` |
+| QwenWork / 千问办公 | Import under Extensions → Skills | Select from `/` or name the skill |
+| WorkBuddy | Skills → Add skill → Upload skill | Enable it, then name the skill |
+| Doubao / 豆包 | Paste a standalone prompt into a new chat | Share notes, then choose a format |
+
+### Claude Code
+
+With Claude Code and Git installed, use macOS/Linux:
+
+```sh
+mkdir -p "$HOME/.claude/skills"
+git clone https://github.com/Olandooooes/career-growth-plan.git \
+  "$HOME/.claude/skills/career-growth-plan"
+```
+
+Windows PowerShell:
+
+```powershell
+New-Item -ItemType Directory -Force "$HOME/.claude/skills" | Out-Null
+git clone https://github.com/Olandooooes/career-growth-plan.git "$HOME/.claude/skills/career-growth-plan"
+```
+
+Alternatively, extract the repository ZIP and place the complete folder, named `career-growth-plan`, under `~/.claude/skills/` or the current project's `.claude/skills/`. Check `career-growth-plan/SKILL.md` and its supporting directories. In a new Claude Code session, invoke `/career-growth-plan` and share your notes. Update an existing copy rather than cloning again. This uses Claude Code's slash invocation, not Codex's dollar syntax.
+
+Source: [Claude Code Skills documentation](https://code.claude.com/docs/en/skills).
+
+### QwenWork / 千问办公
+
+Download this repository with **Code → Download ZIP** and extract it. In **Extensions → Skills → Install/Add**, import `SKILL.md` and its supporting files. If ZIP is requested, compress the extracted folder's contents so `SKILL.md` is directly at the archive root. Keep `references/`, `guides/`, and other supporting directories.
+
+Select `career-growth-plan` from the `/` menu or say “Use the career-growth-plan skill to organize these work notes.” This refers to QwenWork, not ordinary Qwen chat, Model Studio, or an expert-kit upload. If import is unavailable, use the standalone-prompt route below.
+
+Sources: [QwenWork Skills](https://help.aliyun.com/zh/qwenwork/skills), [Alibaba Cloud's QwenWork and WorkBuddy import example](https://docs.rag.bailian.aliyun.com/cookbook/office-agent).
+
+### WorkBuddy
+
+Download and extract this repository. In **Skills → Add skill → Upload skill**, import the skill folder with `SKILL.md` and supporting directories. If ZIP is requested, use the archive layout described above. Confirm the installed skill is enabled, then start a new task: “Use career-growth-plan to organize my recent work.”
+
+This project has not confirmed a WorkBuddy or SkillHub marketplace listing; use local import rather than assuming name search will find it. Menu labels may vary.
+
+Sources: [WorkBuddy Skills](https://www.workbuddy.cn/docs/workbuddy/From-Beginner-to-Expert-Guide/Function-Description/Skills-Market), [Alibaba Cloud import example](https://docs.rag.bailian.aliyun.com/cookbook/office-agent).
+
+### Doubao / 豆包 and hosts without a verified native import route
+
+We have not verified native installation of this repository in Doubao. In a new [Doubao chat](https://www.doubao.com/), paste the relevant code block from the [Chinese standalone prompt](examples/start-here.zh-CN.md), then share rough notes. English users can use the [English prompt](examples/start-here.en.md). Paste the prompt itself, not just a GitHub URL.
+
+Ask for a weekly update, concise KPI review, or six-part narrative. If needed, add the review constraints: personal growth needs before/after evidence; work improvements do not establish impact; next steps require confirmation.
+
+**Prompt-based use is a conversation trial, not a full skill installation.** It does not automatically load references or guarantee memory, file saving, or equivalent host behavior. Re-paste in a new chat; try fictional notes and check the draft first.
+
 ### Other skill-capable hosts
 
 Follow your host's installation instructions and keep `SKILL.md`, `references/`, and `agents/` together. Native integration has not been tested across all hosts. For a one-off trial, ask your assistant to read a local checkout's `SKILL.md` and relevant references; this does not install the skill or grant permanent memory.

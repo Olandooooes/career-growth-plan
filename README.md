@@ -18,7 +18,7 @@ This is a work-writing companion loaded into an AI host. It produces text drafts
 
 | Your need | What you get |
 | --- | --- |
-| “I do lots of small tasks. What counts?” | Contributions grouped by theme, preserving personal responsibility, team results, and open items |
+| “I do lots of small tasks. What counts?” | A concise draft first, evidence-based highlights, and corrections carried into later materials |
 | “I need a weekly update or work summary.” | A clear summary of delivery and pending work instead of a daily task diary |
 | “How do I write my KPI self-review?” | Wording mapped to actual criteria, with material evidence gaps; concise prose when requested, detailed tables when useful |
 | “I need a performance-review narrative.” | Six parts: responsibilities, actions, results, personal growth, work improvements, and confirmed plans; optional proportions |
@@ -82,7 +82,7 @@ Check facts before formal use. No promotion, pay, hiring, or performance-rating 
 | A fuller KPI scenario | [KPI self-review case (Chinese)](examples/kpi-self-review.zh-CN.md) |
 | Actual loaded-skill behavior | [Independent-session report: inputs, outputs, issues, and retests (Chinese)](tests/kpi-session-report.zh-CN.md) |
 
-As of October 16, 2026, the report records nine independent sessions and 19 responses covering onboarding, accomplishments, weekly updates, KPIs, and six-part reviews. Tests found and prompted fixes for unconfirmed future commitments and invented tracking artifacts; corresponding later runs did not repeat them. Review tests cover plan confirmation and missing evidence. **These are bounded runs, not proof of cross-model reliability or long-term user outcomes.**
+As of October 16, 2026, the report records ten independent sessions and 23 responses covering onboarding, accomplishments, weekly updates, KPIs, and six-part reviews. Tests found and prompted fixes for unconfirmed future commitments and invented tracking artifacts; corresponding later runs did not repeat them. Review tests cover plan confirmation and missing evidence. **These are bounded runs, not proof of cross-model reliability or long-term user outcomes.**
 
 Authored fictional cases and actual execution records are labeled separately. Cartoons explain the workflow; they are not product screenshots or test evidence.
 

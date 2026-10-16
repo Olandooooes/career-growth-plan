@@ -32,6 +32,27 @@ Confirm audience, period, expected length, and priorities only when not already 
 
 Organize around objective → personal contribution → observed results and evidence → problems and next steps. Separate planned, attempted, and achieved work. Include maintenance and coordination without claiming hypothetical prevented losses as measured savings. Put unresolved facts after the usable draft so invented placeholders cannot be mistaken for final metrics.
 
+### Six-part review / 六部分述职
+
+For a full narrative review without a required company template, offer this structure, or use it when requested. Company requirements, audience, and requested length take priority. These percentages are optional space/time references, not scoring weights, a validated formula, or a claim about what all managers prefer. Do not force six headings into a short weekly update or KPI self-assessment.
+
+| Part | Reference share | What belongs here |
+| --- | --- | --- |
+| 我负责什么 / Responsibilities | 20% | Actual scope, objectives, boundaries, and support versus ownership |
+| 我做了什么 / Actions | 20% | Selected personal actions addressing those objectives; avoid a task diary |
+| 我带来了什么 / Results | 20% | Known deliverables and observed changes; separate personal contributions from team outcomes |
+| 我成长了什么 / Personal growth | 15% | Supported before/after changes in personal judgment, independence, or capability |
+| 我提升了什么 / Work improvements | 15% | Actual changes to processes, methods, tools, or collaboration; distinguish creating a method from adoption and measured effect |
+| 我下步怎么做 / Next steps | 10% | User-confirmed plans, intended checkpoints, dependencies, and success signals where supplied |
+
+Growth concerns the person: e.g. previously needed guidance to check reports, now independently identifies discrepancies. It requires comparable past and present experience, not just completing a task. Improvement concerns how work is done: e.g. turning repeated answers into an FAQ. Creating and sharing an FAQ does not establish adoption or fewer questions. Neither section is mandatory proof of progress; when evidence is missing, shorten/omit it or state the limitation, rather than inventing a growth story or process improvement.
+
+Use a fact once as primary evidence and cross-reference it briefly when relevant elsewhere; do not count the same FAQ as multiple independent results. Responsibilities are not actions, actions are not automatically outcomes, and intended impact is not measured impact. Never infer tracking documents, authority, leadership, quantified gains, or endorsements from ordinary coordination.
+
+Keep proposed next steps outside copy-ready prose, explicitly marked “建议，待确认”. Ask the user to confirm or edit them before presenting them as commitments. If a full six-part draft is requested before plans are known, return usable sections 1–5 and state outside the submission text that section 6 awaits confirmation. Once confirmed, include only the accepted plan; a future target remains a target, not an achieved result. Do not promise time, resources, approvals, or business outcomes the user has not supplied.
+
+A full [Chinese example](../examples/six-part-review.zh-CN.md) shows raw notes, a plan-confirmation exchange, the six-part material, and evidence gaps. It is an authored example, not behavioral test evidence.
+
 ## Promotion
 
 Map actual next-level expectations to experiences, evidence, and gaps. If employer criteria are missing, label any framework as generic and not authoritative for that company.

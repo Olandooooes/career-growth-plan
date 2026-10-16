@@ -1,81 +1,92 @@
 # Career Growth Companion
 
-**English** | [简体中文](README.zh-CN.md)
+**English** | [简体中文](README.zh-CN.md) · [Try it](examples/start-here.en.md) · [See a case](examples/everyday-work-to-materials.zh-CN.md) · [Read actual tests](tests/kpi-session-report.zh-CN.md)
 
-### Great at your work, unsure how to explain its value? Turn everyday work into truthful accomplishments.
+## Good at your work, unsure how to explain its value?
 
-You chase updates, check data, handle exceptions, and help colleagues—then describe it all as “routine tasks.” Built for capable people who struggle to explain their contribution, this skill helps identify what you personally handled, the problems you addressed, and what you delivered.
+**Turn scattered daily work into truthful accomplishments, then into the material you need.**
 
-**Core workflow: daily work notes → personal contributions → truthful accomplishment wording → your chosen material.** Use it for weekly updates, work summaries, reviews, promotion, resumes, interviews, or KPI self-assessments. Assessment criteria are not required to begin.
+![Cartoon: scattered work notes become clear contributions and useful work documents](assets/illustrations/work-to-accomplishments.png)
 
-**Chinese name: 职场大神养成计划** · `career-growth-plan` · [MIT](LICENSE)
+Chasing updates, checking data, answering questions, handling exceptions—then calling it all “small tasks”? This skill helps explain your responsibilities, the problems you handled, and what you delivered. Built for people who do strong work but struggle to summarize it.
 
-> **Raw notes:** “Chased expense paperwork; four of 18 submissions lacked attachments, so I followed up and handed the completed materials to Finance.”
->
-> **Accomplishment:** “Organized 18 expense submissions, identified and followed up on missing attachments in four, and handed the completed materials to Finance.”
+**Daily notes → truthful contributions → material for your chosen use.** No KPI form, impressive metrics, or complete profile required.
 
-*Fictional example. Handover does not establish payment completion or improved processing speed.*
+This is a work-writing companion loaded into an AI host. It produces text drafts and evidence prompts.
 
-**[See the first-use walkthrough →](examples/first-session.en.md)** · **[Full KPI self-review case (Chinese) →](examples/kpi-self-review.zh-CN.md)**
+## What can it help with?
 
-[Full Chinese case: daily notes → accomplishments → weekly update → concise KPI self-review](examples/everyday-work-to-materials.zh-CN.md), with an optional detailed assessment mapping.
+| Your need | What you get |
+| --- | --- |
+| “I do lots of small tasks. What counts?” | Contributions grouped by theme, preserving personal responsibility, team results, and open items |
+| “I need a weekly update or work summary.” | A clear summary of delivery and pending work instead of a daily task diary |
+| “How do I write my KPI self-review?” | Wording mapped to actual criteria, with material evidence gaps; concise prose when requested, detailed tables when useful |
+| “I need a performance-review narrative.” | Six parts: responsibilities, actions, results, personal growth, work improvements, and confirmed plans; optional proportions |
+| “I'm preparing for promotion, a resume, or an interview.” | Relevant real experiences with clear personal contributions and evidence |
+| “I want to rehearse a conversation with my manager.” | One-turn-at-a-time practice, with the option to pause for help |
 
-[Read the independent-session test report (Chinese)](tests/kpi-session-report.zh-CN.md): original inputs, actual multi-turn onboarding, weekly updates, KPI and six-part review outputs, observed issues, and retests, clearly separated from authored examples.
+Reflection, venting, career direction, and optional character discovery remain available. A character quiz is not required before organizing work.
 
-[Six-part review case (Chinese)](examples/six-part-review.zh-CN.md): responsibilities, actions, results, personal growth, work improvements, and confirmed plans. Proportions are optional length guidance.
+## How to use it: share a few tasks, then choose a purpose
 
-## Start with a few tasks
+![Cartoon: share work notes, check the facts with a companion, and choose a document](assets/illustrations/three-step-start.png)
 
-In a host with the skill loaded, say:
+**1. Start.** After installing and loading the skill, say:
 
 ```text
-Use $career-growth-plan to organize my everyday work into truthful accomplishments.
-Here are a few things I did: …
+Use $career-growth-plan. Help me organize my recent work.
 ```
 
-No KPI form, complete profile, or polished notes needed. Get useful wording first, then adapt it to who will read it and what it is for. If the purpose is known, ask directly for a weekly update, resume bullet, or KPI self-review.
+**2. Share rough notes.** Get useful accomplishment wording before a long intake:
 
-**[Try a standalone prompt before installing →](examples/start-here.en.md)**
+```text
+I chased three teams for materials and combined a weekly report.
+I found five inconsistent figures and contacted the owners to correct them.
+I wrote and shared a systems FAQ, but don't know whether anyone used it.
+```
 
-## Where can the material be used?
+**3. Adapt it.** Check the facts, then ask for one of these:
 
-| Use | Adaptation |
+- “Make it a short weekly update for my manager.”
+- “Write one paragraph for these KPI criteria. Don't claim attainment without evidence.”
+- “Use the six-part review structure. Confirm next steps with me before including them.”
+
+Reuse the same notes across formats without repeating your background. If your purpose is already clear, include it in the first request.
+
+**Not installed yet?** [Copy a standalone tryout prompt](examples/start-here.en.md) or read the [first-use walkthrough](examples/first-session.en.md). Installation follows below.
+
+## What changes in the output?
+
+| Rough notes | Truthful accomplishment wording |
 | --- | --- |
-| Weekly update or work summary | Group by workstream; show deliverables, open issues, and next steps |
-| Review or promotion | Select contributions and evidence against actual responsibilities and expectations |
-| Resume or interview | Select relevant real experiences while preserving personal responsibility |
-| KPI self-assessment | Map to company criteria, distinguish actuals from targets, and preserve missed targets |
+| “Chased three teams, combined a report, got five inconsistent numbers fixed.” | “Coordinated materials from three teams and consolidated a weekly report, identified five data discrepancies, and contacted the owners to correct them.” |
+| “Answered systems questions and shared an FAQ. Don't know who read it.” | “Responded to colleagues' systems questions and compiled and shared an FAQ for team reference.” |
 
-Without numbers, use concrete deliverables and handled problems. With unconfirmed outcomes, describe known actions without inventing impact. Important evidence gaps stay separate for you to check before formal use.
+*Fictional examples. Clearer wording does not establish on-time delivery, improved efficiency, or FAQ adoption.*
 
-## More ways to support your work
+You leave with **a draft you can check, edit, and use**, clearer personal contributions, and the important gaps behind unsupported claims.
 
-| Entry | Try saying | Experience |
-| --- | --- | --- |
-| Organize work | “Turn my daily work into truthful accomplishments.” | Notes → personal contribution → accomplishment wording → chosen use |
-| KPI self-assessment | “Turn these scattered tasks into my KPI self-review.” | Raw notes → contribution groups → KPI mapping → self-review and evidence gaps |
-| Discover yourself | “Start my career adventure. What's my career character?” | Light quiz → editable character card → work interpretation → your choice of direction |
-| Talk about today | “I need to vent. Please don't give me a plan yet.” | Listening, celebration, problem-solving, or reflection; no compulsory logging |
-| Choose a next step | “I want project ownership, but I'm always firefighting.” | A realistic experiment, followed by reflection when you return |
+- Participation stays distinct from leadership; team outcomes stay distinct from personal work.
+- Personal growth needs before/after evidence. An FAQ deliverable does not establish better process outcomes.
+- Unconfirmed plans stay outside submission text. Unknown outcomes, missed targets, and pending work remain visible.
 
-**Tools for explaining your work:**
+Check facts before formal use. No promotion, pay, hiring, or performance-rating outcome is promised.
 
-- **Work translator:** “I just chase people for updates. Help me explain what I do.” Playful metaphors can be extravagant; professional statements stay factual.
-- **KPI accomplishment lab:** “I do a lot of small tasks but cannot explain my contribution.” Group scattered work, map it to review criteria, and get copy-ready self-assessment wording with evidence gaps listed separately.
-- **Conversation practice:** “Play my manager. I want to ask for project ownership.” Practice one turn at a time, pause for help, and finish with one improvement and a fallback.
+## Read a case, then inspect actual tests
 
-You can also jump straight to “My review is tomorrow; help me draft it.” Character discovery and playful titles are optional experiences.
+| Explore | Link |
+| --- | --- |
+| From the opening to work notes | [First-use walkthrough](examples/first-session.en.md) |
+| Reuse one story across formats | [Accomplishments → weekly update → concise KPI case (Chinese)](examples/everyday-work-to-materials.zh-CN.md) |
+| Personal growth versus work improvements | [Six-part review case (Chinese)](examples/six-part-review.zh-CN.md) |
+| A fuller KPI scenario | [KPI self-review case (Chinese)](examples/kpi-self-review.zh-CN.md) |
+| Actual loaded-skill behavior | [Independent-session report: inputs, outputs, issues, and retests (Chinese)](tests/kpi-session-report.zh-CN.md) |
 
-**Growth comes from recognizable changes:** handling a disagreement more independently, noticing a warning earlier, or reusing a method. No invented progress, arbitrary XP, streak penalties, or pressure to keep logging.
+As of October 16, 2026, the report records nine independent sessions and 19 responses covering onboarding, accomplishments, weekly updates, KPIs, and six-part reviews. Tests found and prompted fixes for unconfirmed future commitments and invented tracking artifacts; corresponding later runs did not repeat them. Review tests cover plan confirmation and missing evidence. **These are bounded runs, not proof of cross-model reliability or long-term user outcomes.**
 
-## Explore before installing
+Authored fictional cases and actual execution records are labeled separately. Cartoons explain the workflow; they are not product screenshots or test evidence.
 
-- [English walkthrough](examples/first-session.en.md): work notes, truthful accomplishments, corrections, and adapting to a chosen use.
-- [完整中文体验](examples/first-session.zh-CN.md): the same capabilities in Chinese.
-- [Workplace field guides](guides/README.md): three readable guides; no installation needed.
-- [Bilingual tryout](examples/tryout.md): experience and feedback checklist.
-
-The guides cover busywork and growth, constant firefighting, and overlooked contributions. They are contextual practical advice, not scientific laws.
+Also explore the [workplace field guides](guides/README.md) and [manual tryout checks](examples/tryout.md).
 
 ## Install and start
 

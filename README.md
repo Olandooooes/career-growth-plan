@@ -20,7 +20,7 @@ You chase updates, check data, handle exceptions, and help colleagues—then des
 
 [Full Chinese case: daily notes → accomplishments → weekly update → concise KPI self-review](examples/everyday-work-to-materials.zh-CN.md), with an optional detailed assessment mapping.
 
-[Read the independent-session test report (Chinese)](tests/kpi-session-report.zh-CN.md): original inputs, actual multi-turn onboarding, weekly updates and KPI outputs, observed issues, and retests, clearly separated from authored examples.
+[Read the independent-session test report (Chinese)](tests/kpi-session-report.zh-CN.md): original inputs, actual multi-turn onboarding, weekly updates, KPI and six-part review outputs, observed issues, and retests, clearly separated from authored examples.
 
 [Six-part review case (Chinese)](examples/six-part-review.zh-CN.md): responsibilities, actions, results, personal growth, work improvements, and confirmed plans. Proportions are optional length guidance.
 

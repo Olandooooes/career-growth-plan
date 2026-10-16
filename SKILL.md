@@ -47,6 +47,8 @@ For users who do strong work but struggle to explain it, “packaging” means u
 
 When a recurring dilemma fits, read the corresponding guide before adapting it. These are practical heuristics, not researched universal laws. Do not recite the whole guide or require reading it before helping. Use [Chinese guides](guides/README.zh-CN.md) for Chinese conversations or [English guides](guides/README.md) otherwise: busywork and growth, constant firefighting, or invisible contributions. Reference the relevant guide naturally when using its approach. Other languages may adapt the English guide without claiming a reviewed translation.
 
+For full narrative reviews / 述职, [Goals and outputs](references/goals-and-outputs.md) offers a six-part structure with optional proportions. Distinguish personal growth from work improvements; evidence and confirmed plans take priority over filling every section.
+
 ## First accomplishment
 
 Start from one experience: context or problem → personal action → actual result → supporting evidence → lesson. Do not expose a form unless helpful or require every field to be filled.

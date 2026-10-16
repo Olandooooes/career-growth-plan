@@ -136,7 +136,7 @@ With Claude Code and Git installed, use macOS/Linux:
 
 ```sh
 mkdir -p "$HOME/.claude/skills"
-git clone https://github.com/Olandooooes/career-growth-plan.git \
+git clone --depth 1 https://github.com/Olandooooes/career-growth-plan.git \
   "$HOME/.claude/skills/career-growth-plan"
 ```
 
@@ -144,7 +144,7 @@ Windows PowerShell:
 
 ```powershell
 New-Item -ItemType Directory -Force "$HOME/.claude/skills" | Out-Null
-git clone https://github.com/Olandooooes/career-growth-plan.git "$HOME/.claude/skills/career-growth-plan"
+git clone --depth 1 https://github.com/Olandooooes/career-growth-plan.git "$HOME/.claude/skills/career-growth-plan"
 ```
 
 Alternatively, extract the repository ZIP and place the complete folder, named `career-growth-plan`, under `~/.claude/skills/` or the current project's `.claude/skills/`. Check `career-growth-plan/SKILL.md` and its supporting directories. In a new Claude Code session, invoke `/career-growth-plan` and share your notes. Update an existing copy rather than cloning again. This uses Claude Code's slash invocation, not Codex's dollar syntax.
@@ -174,6 +174,15 @@ We have not verified native installation of this repository in Doubao. In a new 
 Ask for a weekly update, concise KPI review, or six-part narrative. If needed, add the review constraints: personal growth needs before/after evidence; work improvements do not establish impact; next steps require confirmation.
 
 **Prompt-based use is a conversation trial, not a full skill installation.** It does not automatically load references or guarantee memory, file saving, or equivalent host behavior. Re-paste in a new chat; try fictional notes and check the draft first.
+
+### Verify and update your installation
+
+- **Files:** the installed folder should directly contain `SKILL.md` and the bundled `references/`, `guides/`, `examples/`, and `agents/` directories. Avoid an extra `career-growth-plan-main/` layer or a single-file-only install.
+- **Invocation:** use `$career-growth-plan` in Codex and `/career-growth-plan` in Claude Code. In QwenWork and WorkBuddy, select the installed skill or name it; do not assume dollar syntax works everywhere. Check enabled state, folder nesting and permissions if missing, then reload or start a new session.
+- **Try fictional notes:** request contributions first, then a concise KPI draft. Check that unsupported attainment and unconfirmed commitments are absent. A plausible answer alone does not prove native loading; inspect the client's skill state too.
+- **Update the same copy:** for a Git clone, run `git -C "actual-install-directory/career-growth-plan" pull --ff-only`. Resolve local edits or reported errors rather than deleting the install. For folder/ZIP imports, download the latest source and use the client's update flow without keeping duplicate copies. For prompt trials, re-copy the latest prompt.
+
+The [HowToLiveBetter life-decision-guide setup](https://github.com/eternity4719/HowToLiveBetter/blob/main/skills/life-decision-guide/README.md) informed the separation of host-specific paths and invocation while maintaining shared rules. This project also needs supporting files, so use a complete directory rather than copying its single-file download approach. Official host documentation remains authoritative.
 
 ### Other skill-capable hosts
 
